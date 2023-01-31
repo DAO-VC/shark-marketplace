@@ -1,0 +1,90 @@
+@import "assets/scss/variables";
+
+.input-floating {
+  width: 100%;
+  position: relative;
+
+  > label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: #7C7C7C;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 100%; // allow textareas
+    padding: $input-padding-y-mob $input-padding-x-mob;
+    pointer-events: none;
+    border: 1px solid transparent;
+    transform-origin: 0 0;
+    transition: opacity $transition , transform $transition;
+
+    @include respond-before('md') {
+      padding: $input-padding-y $input-padding-x;
+    }
+  }
+
+  > .ui-form-input-text {
+    &[contentEditable=true]:empty:not(:focus):before {
+      content:attr(data-placeholder);
+      color: transparent;
+    }
+    &::placeholder {
+      color: transparent;
+    }
+
+    &:focus,
+    &:not(:placeholder-shown),
+    &[contentEditable=true]:empty:not(:focus){
+      padding-top: $floating-input-padding-t-mob;
+      padding-bottom: $floating-input-padding-b-mob;
+
+      @include respond-before('md') {
+        padding-top: $floating-input-padding-t;
+        padding-bottom: $floating-input-padding-b;
+      }
+
+    }
+
+    // Duplicated because `:-webkit-autofill` invalidates other selectors when grouped
+    &:-webkit-autofill {
+      //padding-top: $form-floating-input-padding-t;
+      //padding-bottom: $form-floating-input-padding-b;
+    }
+  }
+
+  //> .ui-form-select {
+  //  .ui-form-select__selection {
+  //    color: transparent;
+  //  }
+  //}
+
+  > .ui-form-input-text:not([contentEditable]):focus,
+  > .ui-form-input-text:not([contentEditable]):not(:placeholder-shown) {
+    ~ label {
+      color: #7C7C7C;
+      font-size: .75em;
+      transform: translateY(-$floating-input-padding-b-mob);
+
+      @include respond-before('md') {
+        transform: translateY(-$floating-input-padding-b);
+      }
+    }
+  }
+
+  // Если это обычный div[contentEditable=true]
+  > .ui-form-input-text[contentEditable=true] {
+    &:empty:focus,
+    &:not(:empty):focus,
+    &:not(:empty):not(:focus) {
+      ~ label {
+        transform: translateY(-$floating-input-padding-b-mob);
+
+        @include respond-before('md') {
+          transform: translateY(-$floating-input-padding-b);
+        }
+      }
+    }
+  }
+}

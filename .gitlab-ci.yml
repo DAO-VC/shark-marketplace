@@ -1,0 +1,10 @@
+include:
+  - project: transcrypt/sharkrace/devops/pipelines
+    file:
+      - /pipelines/helmfile-service.yml
+
+variables:
+  # MR_DOMAIN: $CI_COMMIT_REF_SLUG.dev.front.sharkrace.club
+  PROD_DOMAIN: market.sharkrace.com
+  REVIEW_DEPLOY_ENABLED: "false"
+  DEV_DEPLOY_ENABLED: "false"

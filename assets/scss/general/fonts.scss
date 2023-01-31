@@ -1,0 +1,39 @@
+@import "../variables.scss";
+
+//@font-face {
+//  font-family: 'TT Norms';
+//  src: url('#{$font-path}/TTNorms-Regular.eot');
+//  src: local('TT Norms Regular'), local('TTNorms-Regular'),
+//  url('#{$font-path}/TTNorms-Regular.eot?#iefix') format('embedded-opentype'),
+//  url('#{$font-path}/TTNorms-Regular.woff') format('woff'),
+//  url('#{$font-path}/TTNorms-Regular.ttf') format('truetype');
+//  font-weight: normal;
+//  font-style: normal;
+//}
+
+$font-size-data: (
+  // desktop : mobile
+  10px: 10px,
+  12px: 12px,
+  14px: 14px,
+  16px: 16px,
+  18px: 20px,
+  20px: 20px,
+  22px: 22px,
+  24px: 24px,
+  26px: 30px,
+  28px: 28px,
+  30px: 30px,
+  36px: 36px,
+);
+.font-size {
+  @each $font-size-desktop, $font-size-mobile in $font-size-data {
+    &-#{strip-unit($font-size-desktop)} {
+      font-size: $font-size-mobile;
+
+      @include respond-before('md') {
+        font-size: $font-size-desktop;
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+.git*
+Dockerfile
+/deploy_test.sh
+/devops*
+*.md
+/node_modules/
+.dockerignore

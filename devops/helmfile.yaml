@@ -1,0 +1,29 @@
+helmDefaults:
+  verify: false
+  wait: true
+  waitForJobs: true
+  timeout: 300
+  createNamespace: false
+  atomic: true
+
+repositories:
+  - name: helm-lib
+    url: "git+https://gitlab-ci-token:{{ requiredEnv "CI_JOB_TOKEN" }}@gitlab.com/transcrypt/sharkrace/devops/helm-lib@?ref=main"
+
+environments:
+  prod:
+    values:
+      - ingressHostname: {{ requiredEnv "PROD_DOMAIN" | quote }}
+
+releases:
+  - name: marketplace
+    namespace: {{ .Namespace }}
+    chart: helm-lib/chart-template
+    values:
+      - "./values.gotmpl"
+      - image:
+          name: {{ requiredEnv "CI_REGISTRY_IMAGE" | quote }}
+          tag: {{ requiredEnv "CI_COMMIT_SHORT_SHA" | quote }}
+        projectUrl: {{ requiredEnv "CI_PROJECT_URL" | quote }}
+        ciJobUrl: {{ requiredEnv "CI_JOB_URL" | quote }}
+        nameOverride: {{ requiredEnv "CI_PROJECT_NAME" | quote }}

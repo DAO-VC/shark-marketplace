@@ -1,0 +1,66 @@
+@import "../variables.scss";
+@import "../mixins/mixins.scss";
+
+@import "ui-input-text";
+//@import "ui-input-checkbox";
+@import "ui-input-range";
+@import "ui-btn";
+//@import "ui-select";
+@import "floating-labels";
+
+
+.ui-form {
+  &__row {
+    @include respond-before('lg') {
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+
+  &__col {
+    @include respond-before('lg') {
+
+      &:last-child {
+        width: 35%;
+        margin-left: 20px;
+      }
+    }
+  }
+
+  &__fieldset {
+    margin-bottom: 10px;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  &__label {
+    color: var(--color-gray-light);
+    margin-bottom: 2px;
+  }
+
+  &__group-code {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    > * {
+      width: 150px;
+      margin: 10px auto;
+    }
+
+    @include respond-before("md") {
+      flex-wrap: wrap;
+      flex-direction: row;
+      align-items: inherit;
+      justify-content: center;
+
+      > * {
+        width: auto;
+        height: auto;
+        margin: 0 10px;
+      }
+    }
+  }
+}

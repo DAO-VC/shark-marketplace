@@ -1,0 +1,219 @@
+/// Remove the unit of a length
+/// @param {Number} $number - Number to remove unit from
+/// @return {Number} - Unitless number
+@function strip-unit($number) {
+  @if type-of($number) == "number" and not unitless($number) {
+    //@return ($number / ($number * 0 + 1));
+    @return math.div($number, $number * 0 + 1);
+  }
+
+  @return $number;
+}
+
+@mixin user-select($value: none) {
+  -webkit-user-select: $value;
+  -moz-user-select: $value;
+  -ms-user-select: $value;
+  user-select: $value;
+}
+@mixin appearance($value: none) {
+  -webkit-appearance: $value;
+  -moz-appearance: $value;
+  appearance: $value;
+}
+@mixin position-sticky() {
+  position: -webkit-sticky;
+  position: sticky;
+}
+
+/// Mixin to manage responsive breakpoints
+/// @author Hugo Giraudel
+/// @param {String} $breakpoint - Breakpoint name
+/// @require $breakpoints
+@mixin respond-to($breakpoint) {
+  // If the key exists in the map
+  @if map-has-key($breakpoints, $breakpoint) {
+    // Prints a media query based on the value
+    @media (max-width: map-get($breakpoints, $breakpoint) - 1) {
+      @content;
+    }
+  }
+  // If the key doesn't exist in the map
+  @else {
+    @warn "Unfortunately, no value could be retrieved from `#{$breakpoint}`. "
+    + "Available breakpoints are: #{map-keys($breakpoints)}.";
+  }
+}
+
+// @media (min-width: XXXpx) { ... }
+@mixin respond-before($breakpoint) {
+  // If the key exists in the map
+  @if map-has-key($breakpoints, $breakpoint) {
+    // Prints a media query based on the value
+    @media (min-width: map-get($breakpoints, $breakpoint)) {
+      @content;
+    }
+  }
+  // If the key doesn't exist in the map
+  @else {
+    @warn "Unfortunately, no value could be retrieved from `#{$breakpoint}`. "
+    + "Available breakpoints are: #{map-keys($breakpoints)}.";
+  }
+}
+
+@mixin fontGothamPro($weight: "regular", $echoFontFamily: false) {
+  @if $echoFontFamily == true {
+    font-family: "Gotham Pro", sans-serif;
+  }
+
+  @if $weight == "bold" {
+    font-weight: 600;
+  } @else if $weight == "medium" {
+    font-weight: 500;
+  } @else {
+    font-weight: 400;
+  }
+}
+
+@mixin fontRoboto($weight: "regular", $echoFontFamily: false) {
+  @if $echoFontFamily == true {
+    font-family: "Roboto", sans-serif;
+  }
+
+  @if $weight == "extrabold" {
+    font-weight: 800;
+  } @else if $weight == "bold" {
+    font-weight: 600;
+  } @else if $weight == "medium" {
+    font-weight: 500;
+  } @else if $weight == "light" {
+    font-weight: 300;
+  } @else {
+    font-weight: 400;
+  }
+}
+
+@mixin h1() {
+  font-size: 26px;
+  line-height: 1.25em;
+  margin-bottom: 0;
+  letter-spacing: $letter-spc-2;
+  @include fontRoboto("bold");
+
+  @include respond-before("sm") {
+    font-size: 30px;
+  }
+  @include respond-before("md") {
+    font-size: 32px;
+  }
+  @include respond-before("lg") {
+    font-size: 34px;
+  }
+  @include respond-before("xl") {
+    font-size: 42px;
+  }
+  @include respond-before("xxl") {
+    //font-size: 105px;
+  }
+}
+@mixin h2() {
+  font-size: 24px;
+  line-height: 1.25em;
+  margin-top: 1.5em;
+  margin-bottom: 0.8em;
+  letter-spacing: $letter-spc-2;
+  @include fontRoboto("bold");
+
+  @include respond-before("sm") {
+    font-size: 26px;
+  }
+  @include respond-before("md") {
+    font-size: 28px;
+  }
+  @include respond-before("lg") {
+    font-size: 30px;
+  }
+  @include respond-before("xl") {
+    font-size: 30px;
+  }
+  @include respond-before("xxl") {
+  }
+}
+
+@mixin h3() {
+  @include fontRoboto("bold");
+  font-size: 16px;
+  line-height: 1.25em;
+  margin-top: 1.5em;
+  margin-bottom: 0.8em;
+  letter-spacing: $letter-spc-2;
+
+  @include respond-before("sm") {
+    font-size: 22px;
+  }
+  @include respond-before("xl") {
+    font-size: 26px;
+  }
+}
+@mixin h4() {
+  font-size: 20px;
+  line-height: 1.35em;
+  letter-spacing: $letter-spc-2;
+  @include fontRoboto("bold");
+
+  @include respond-before("sm") {
+    font-size: 18px;
+  }
+  @include respond-before("md") {
+    font-size: 20px;
+  }
+  @include respond-before("lg") {
+    font-size: 22px;
+  }
+  @include respond-before("xl") {
+    //font-size: 27px;
+  }
+}
+@mixin p() {
+
+}
+@mixin big() {
+  font-size: 1.25em;
+}
+@mixin small() {
+  font-size: 0.8em;
+}
+
+@mixin text-overflow() {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@function hexToRGB($hex) {
+  @return red($hex), green($hex), blue($hex);
+}
+// размытие
+@mixin blur($value) {
+  -webkit-backdrop-filter: blur($value);
+  backdrop-filter: blur($value);
+}
+
+@mixin darkmode($debug: 0) {
+  // for development: true, for production: false
+
+  @if ($debug == 1) {
+    //@debug "Dark mode debug is ON";
+  } @else {
+    // TODO: чтобы отключить темную тему по умолчанию, нужно раскомментировать
+    //@media screen and (prefers-color-scheme: dark) {
+    @content;
+    //}
+  }
+}
+
+@mixin modal-header() {
+  margin-bottom: 30px;
+  font-size: 20px;
+  text-align: center;
+  @include fontRoboto("bold");
+}

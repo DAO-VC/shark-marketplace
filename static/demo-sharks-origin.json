@@ -1,0 +1,2212 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "rarity": 0,
+      "price": 0,
+      "assets": {
+        "body": {
+          "rarity": 221,
+          "price": 730,
+          "symbol": "USD",
+          "id": 45,
+          "index": 2,
+          "images": [
+            {
+              "url": "/api/image/trait/150/B45_L03.png",
+              "layer": 3
+            },
+            {
+              "url": "/api/image/trait/150/B45_L06.png",
+              "layer": 6
+            },
+            {
+              "url": "/api/image/trait/150/B45_L10.png",
+              "layer": 10
+            }
+          ]
+        },
+        "background": {
+          "rarity": 431,
+          "price": 80,
+          "symbol": "USD",
+          "id": 3,
+          "index": 0,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S03_L01.png",
+              "layer": 1
+            },
+            {
+              "url": "/api/image/trait/150/S03_L17.png",
+              "layer": 17
+            }
+          ]
+        },
+        "back": {
+          "rarity": 342,
+          "price": 688,
+          "symbol": "USD",
+          "id": 55,
+          "index": 1,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S55_L02.png",
+              "layer": 2
+            }
+          ]
+        },
+        "outfit": {
+          "rarity": 928,
+          "price": 493,
+          "symbol": "USD",
+          "id": 1,
+          "index": 3,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S01_L04.png",
+              "layer": 4
+            },
+            {
+              "url": "/api/image/trait/150/S01_L07.png",
+              "layer": 7
+            },
+            {
+              "url": "/api/image/trait/150/S01_L11.png",
+              "layer": 11
+            }
+          ]
+        },
+        "eye": {
+          "rarity": 25,
+          "price": 355,
+          "symbol": "USD",
+          "id": 97,
+          "index": 10,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S97_L15.png",
+              "layer": 15
+            }
+          ]
+        },
+        "mouth": {
+          "rarity": 492,
+          "price": 938,
+          "symbol": "USD",
+          "id": 73,
+          "index": 8,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S73_L13.png",
+              "layer": 13
+            }
+          ]
+        },
+        "head": {
+          "rarity": 133,
+          "price": 659,
+          "symbol": "USD",
+          "id": 91,
+          "index": 9,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S91_L14.png",
+              "layer": 14
+            }
+          ]
+        },
+        "left-hand": {
+          "rarity": 614,
+          "price": 510,
+          "symbol": "USD",
+          "id": 48,
+          "index": 4,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S48_L05.png",
+              "layer": 5
+            }
+          ]
+        },
+        "neck": {
+          "rarity": 702,
+          "price": 251,
+          "symbol": "USD",
+          "id": 81,
+          "index": 5,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S81_L08.png",
+              "layer": 8
+            }
+          ]
+        },
+        "under-right-hand": {
+          "rarity": 852,
+          "price": 511,
+          "symbol": "USD",
+          "id": 1,
+          "index": 6,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S01_L09.png",
+              "layer": 9
+            }
+          ]
+        },
+        "over-right-hand": {
+          "rarity": 737,
+          "price": 735,
+          "symbol": "USD",
+          "id": 0,
+          "index": 7,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S00_L12.png",
+              "layer": 12
+            }
+          ]
+        },
+        "nose": {
+          "rarity": 32,
+          "price": 56,
+          "symbol": "USD",
+          "id": 79,
+          "index": 11,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S79_L16.png",
+              "layer": 16
+            }
+          ]
+        }
+      },
+      "oldRarity": 5852
+    },
+    {
+      "id": 2,
+      "rarity": 0,
+      "price": 0,
+      "assets": {
+        "body": {
+          "rarity": 850,
+          "price": 526,
+          "symbol": "USD",
+          "id": 8,
+          "index": 2,
+          "images": [
+            {
+              "url": "/api/image/trait/150/B08_L03.png",
+              "layer": 3
+            },
+            {
+              "url": "/api/image/trait/150/B08_L06.png",
+              "layer": 6
+            },
+            {
+              "url": "/api/image/trait/150/B08_L10.png",
+              "layer": 10
+            }
+          ]
+        },
+        "background": {
+          "rarity": 187,
+          "price": 946,
+          "symbol": "USD",
+          "id": 3,
+          "index": 0,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S03_L01.png",
+              "layer": 1
+            },
+            {
+              "url": "/api/image/trait/150/S03_L17.png",
+              "layer": 17
+            }
+          ]
+        },
+        "back": {
+          "rarity": 213,
+          "price": 499,
+          "symbol": "USD",
+          "id": 40,
+          "index": 1,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S40_L02.png",
+              "layer": 2
+            }
+          ]
+        },
+        "outfit": {
+          "rarity": 783,
+          "price": 5,
+          "symbol": "USD",
+          "id": 72,
+          "index": 3,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S72_L04.png",
+              "layer": 4
+            },
+            {
+              "url": "/api/image/trait/150/S72_L07.png",
+              "layer": 7
+            },
+            {
+              "url": "/api/image/trait/150/S72_L11.png",
+              "layer": 11
+            }
+          ]
+        },
+        "eye": {
+          "rarity": 977,
+          "price": 795,
+          "symbol": "USD",
+          "id": 105,
+          "index": 10,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S105_L15.png",
+              "layer": 15
+            }
+          ]
+        },
+        "mouth": {
+          "rarity": 97,
+          "price": 639,
+          "symbol": "USD",
+          "id": 13,
+          "index": 8,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S13_L13.png",
+              "layer": 13
+            }
+          ]
+        },
+        "head": {
+          "rarity": 529,
+          "price": 434,
+          "symbol": "USD",
+          "id": 63,
+          "index": 9,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S63_L14.png",
+              "layer": 14
+            }
+          ]
+        },
+        "left-hand": {
+          "rarity": 326,
+          "price": 861,
+          "symbol": "USD",
+          "id": 37,
+          "index": 4,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S37_L05.png",
+              "layer": 5
+            }
+          ]
+        },
+        "neck": {
+          "rarity": 754,
+          "price": 783,
+          "symbol": "USD",
+          "id": 82,
+          "index": 5,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S82_L08.png",
+              "layer": 8
+            }
+          ]
+        },
+        "under-right-hand": {
+          "rarity": 514,
+          "price": 517,
+          "symbol": "USD",
+          "id": 0,
+          "index": 6,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S00_L09.png",
+              "layer": 9
+            }
+          ]
+        },
+        "over-right-hand": {
+          "rarity": 737,
+          "price": 735,
+          "symbol": "USD",
+          "id": 0,
+          "index": 7,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S00_L12.png",
+              "layer": 12
+            }
+          ]
+        },
+        "nose": {
+          "rarity": 938,
+          "price": 521,
+          "symbol": "USD",
+          "id": 56,
+          "index": 11,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S56_L16.png",
+              "layer": 16
+            }
+          ]
+        }
+      },
+      "oldRarity": 6674
+    },
+    {
+      "id": 3,
+      "rarity": 0,
+      "price": 0,
+      "assets": {
+        "body": {
+          "rarity": 870,
+          "price": 933,
+          "symbol": "USD",
+          "id": 26,
+          "index": 2,
+          "images": [
+            {
+              "url": "/api/image/trait/150/B26_L03.png",
+              "layer": 3
+            },
+            {
+              "url": "/api/image/trait/150/B26_L06.png",
+              "layer": 6
+            },
+            {
+              "url": "/api/image/trait/150/B26_L10.png",
+              "layer": 10
+            }
+          ]
+        },
+        "background": {
+          "rarity": 854,
+          "price": 481,
+          "symbol": "USD",
+          "id": 4,
+          "index": 0,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S04_L01.png",
+              "layer": 1
+            },
+            {
+              "url": "/api/image/trait/150/S04_L17.png",
+              "layer": 17
+            }
+          ]
+        },
+        "back": {
+          "rarity": 907,
+          "price": 891,
+          "symbol": "USD",
+          "id": 11,
+          "index": 1,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S11_L02.png",
+              "layer": 2
+            }
+          ]
+        },
+        "outfit": {
+          "rarity": 724,
+          "price": 501,
+          "symbol": "USD",
+          "id": 0,
+          "index": 3,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S00_L04.png",
+              "layer": 4
+            },
+            {
+              "url": "/api/image/trait/150/S00_L07.png",
+              "layer": 7
+            },
+            {
+              "url": "/api/image/trait/150/S00_L11.png",
+              "layer": 11
+            }
+          ]
+        },
+        "eye": {
+          "rarity": 302,
+          "price": 382,
+          "symbol": "USD",
+          "id": 68,
+          "index": 10,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S68_L15.png",
+              "layer": 15
+            }
+          ]
+        },
+        "mouth": {
+          "rarity": 881,
+          "price": 364,
+          "symbol": "USD",
+          "id": 70,
+          "index": 8,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S70_L13.png",
+              "layer": 13
+            }
+          ]
+        },
+        "head": {
+          "rarity": 708,
+          "price": 530,
+          "symbol": "USD",
+          "id": 66,
+          "index": 9,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S66_L14.png",
+              "layer": 14
+            }
+          ]
+        },
+        "left-hand": {
+          "rarity": 554,
+          "price": 890,
+          "symbol": "USD",
+          "id": 8,
+          "index": 4,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S08_L05.png",
+              "layer": 5
+            }
+          ]
+        },
+        "neck": {
+          "rarity": 365,
+          "price": 590,
+          "symbol": "USD",
+          "id": 75,
+          "index": 5,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S75_L08.png",
+              "layer": 8
+            }
+          ]
+        },
+        "under-right-hand": {
+          "rarity": 713,
+          "price": 76,
+          "symbol": "USD",
+          "id": 40,
+          "index": 6,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S40_L09.png",
+              "layer": 9
+            }
+          ]
+        },
+        "over-right-hand": {
+          "rarity": 737,
+          "price": 735,
+          "symbol": "USD",
+          "id": 0,
+          "index": 7,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S00_L12.png",
+              "layer": 12
+            }
+          ]
+        },
+        "nose": {
+          "rarity": 896,
+          "price": 127,
+          "symbol": "USD",
+          "id": 13,
+          "index": 11,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S13_L16.png",
+              "layer": 16
+            }
+          ]
+        }
+      },
+      "oldRarity": 8606
+    },
+    {
+      "id": 4,
+      "rarity": 0,
+      "price": 0,
+      "assets": {
+        "body": {
+          "rarity": 983,
+          "price": 52,
+          "symbol": "USD",
+          "id": 21,
+          "index": 2,
+          "images": [
+            {
+              "url": "/api/image/trait/150/B21_L03.png",
+              "layer": 3
+            },
+            {
+              "url": "/api/image/trait/150/B21_L06.png",
+              "layer": 6
+            },
+            {
+              "url": "/api/image/trait/150/B21_L10.png",
+              "layer": 10
+            }
+          ]
+        },
+        "background": {
+          "rarity": 963,
+          "price": 452,
+          "symbol": "USD",
+          "id": 2,
+          "index": 0,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S02_L01.png",
+              "layer": 1
+            },
+            {
+              "url": "/api/image/trait/150/S02_L17.png",
+              "layer": 17
+            }
+          ]
+        },
+        "back": {
+          "rarity": 313,
+          "price": 797,
+          "symbol": "USD",
+          "id": 4,
+          "index": 1,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S04_L02.png",
+              "layer": 2
+            }
+          ]
+        },
+        "outfit": {
+          "rarity": 151,
+          "price": 574,
+          "symbol": "USD",
+          "id": 30,
+          "index": 3,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S30_L04.png",
+              "layer": 4
+            },
+            {
+              "url": "/api/image/trait/150/S30_L07.png",
+              "layer": 7
+            },
+            {
+              "url": "/api/image/trait/150/S30_L11.png",
+              "layer": 11
+            }
+          ]
+        },
+        "eye": {
+          "rarity": 47,
+          "price": 698,
+          "symbol": "USD",
+          "id": 103,
+          "index": 10,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S103_L15.png",
+              "layer": 15
+            }
+          ]
+        },
+        "mouth": {
+          "rarity": 98,
+          "price": 642,
+          "symbol": "USD",
+          "id": 75,
+          "index": 8,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S75_L13.png",
+              "layer": 13
+            }
+          ]
+        },
+        "head": {
+          "rarity": 218,
+          "price": 51,
+          "symbol": "USD",
+          "id": 34,
+          "index": 9,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S34_L14.png",
+              "layer": 14
+            }
+          ]
+        },
+        "left-hand": {
+          "rarity": 469,
+          "price": 82,
+          "symbol": "USD",
+          "id": 0,
+          "index": 4,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S00_L05.png",
+              "layer": 5
+            }
+          ]
+        },
+        "neck": {
+          "rarity": 891,
+          "price": 472,
+          "symbol": "USD",
+          "id": 45,
+          "index": 5,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S45_L08.png",
+              "layer": 8
+            }
+          ]
+        },
+        "under-right-hand": {
+          "rarity": 100,
+          "price": 878,
+          "symbol": "USD",
+          "id": 16,
+          "index": 6,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S16_L09.png",
+              "layer": 9
+            }
+          ]
+        },
+        "over-right-hand": {
+          "rarity": 955,
+          "price": 847,
+          "symbol": "USD",
+          "id": 0,
+          "index": 7,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S00_L12.png",
+              "layer": 12
+            }
+          ]
+        },
+        "nose": {
+          "rarity": 198,
+          "price": 462,
+          "symbol": "USD",
+          "id": 43,
+          "index": 11,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S43_L16.png",
+              "layer": 16
+            }
+          ]
+        }
+      },
+      "oldRarity": 5704
+    },
+    {
+      "id": 5,
+      "rarity": 0,
+      "price": 0,
+      "assets": {
+        "body": {
+          "rarity": 846,
+          "price": 592,
+          "symbol": "USD",
+          "id": 57,
+          "index": 2,
+          "images": [
+            {
+              "url": "/api/image/trait/150/B57_L03.png",
+              "layer": 3
+            },
+            {
+              "url": "/api/image/trait/150/B57_L06.png",
+              "layer": 6
+            },
+            {
+              "url": "/api/image/trait/150/B57_L10.png",
+              "layer": 10
+            }
+          ]
+        },
+        "background": {
+          "rarity": 203,
+          "price": 662,
+          "symbol": "USD",
+          "id": 7,
+          "index": 0,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S07_L01.png",
+              "layer": 1
+            },
+            {
+              "url": "/api/image/trait/150/S07_L17.png",
+              "layer": 17
+            }
+          ]
+        },
+        "back": {
+          "rarity": 631,
+          "price": 104,
+          "symbol": "USD",
+          "id": 2,
+          "index": 1,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S02_L02.png",
+              "layer": 2
+            }
+          ]
+        },
+        "outfit": {
+          "rarity": 724,
+          "price": 501,
+          "symbol": "USD",
+          "id": 0,
+          "index": 3,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S00_L04.png",
+              "layer": 4
+            },
+            {
+              "url": "/api/image/trait/150/S00_L07.png",
+              "layer": 7
+            },
+            {
+              "url": "/api/image/trait/150/S00_L11.png",
+              "layer": 11
+            }
+          ]
+        },
+        "eye": {
+          "rarity": 929,
+          "price": 890,
+          "symbol": "USD",
+          "id": 100,
+          "index": 10,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S100_L15.png",
+              "layer": 15
+            }
+          ]
+        },
+        "mouth": {
+          "rarity": 529,
+          "price": 14,
+          "symbol": "USD",
+          "id": 19,
+          "index": 8,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S19_L13.png",
+              "layer": 13
+            }
+          ]
+        },
+        "head": {
+          "rarity": 703,
+          "price": 642,
+          "symbol": "USD",
+          "id": 55,
+          "index": 9,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S55_L14.png",
+              "layer": 14
+            }
+          ]
+        },
+        "left-hand": {
+          "rarity": 452,
+          "price": 610,
+          "symbol": "USD",
+          "id": 15,
+          "index": 4,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S15_L05.png",
+              "layer": 5
+            }
+          ]
+        },
+        "neck": {
+          "rarity": 950,
+          "price": 639,
+          "symbol": "USD",
+          "id": 0,
+          "index": 5,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S00_L08.png",
+              "layer": 8
+            }
+          ]
+        },
+        "under-right-hand": {
+          "rarity": 320,
+          "price": 677,
+          "symbol": "USD",
+          "id": 0,
+          "index": 6,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S00_L09.png",
+              "layer": 9
+            }
+          ]
+        },
+        "over-right-hand": {
+          "rarity": 901,
+          "price": 641,
+          "symbol": "USD",
+          "id": 1,
+          "index": 7,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S01_L12.png",
+              "layer": 12
+            }
+          ]
+        },
+        "nose": {
+          "rarity": 70,
+          "price": 630,
+          "symbol": "USD",
+          "id": 48,
+          "index": 11,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S48_L16.png",
+              "layer": 16
+            }
+          ]
+        }
+      },
+      "oldRarity": 6829
+    },
+    {
+      "id": 6,
+      "rarity": 0,
+      "price": 0,
+      "assets": {
+        "body": {
+          "rarity": 906,
+          "price": 537,
+          "symbol": "USD",
+          "id": 49,
+          "index": 2,
+          "images": [
+            {
+              "url": "/api/image/trait/150/B49_L03.png",
+              "layer": 3
+            },
+            {
+              "url": "/api/image/trait/150/B49_L06.png",
+              "layer": 6
+            },
+            {
+              "url": "/api/image/trait/150/B49_L10.png",
+              "layer": 10
+            }
+          ]
+        },
+        "background": {
+          "rarity": 357,
+          "price": 202,
+          "symbol": "USD",
+          "id": 1,
+          "index": 0,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S01_L01.png",
+              "layer": 1
+            },
+            {
+              "url": "/api/image/trait/150/S01_L17.png",
+              "layer": 17
+            }
+          ]
+        },
+        "back": {
+          "rarity": 378,
+          "price": 984,
+          "symbol": "USD",
+          "id": 9,
+          "index": 1,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S09_L02.png",
+              "layer": 2
+            }
+          ]
+        },
+        "outfit": {
+          "rarity": 634,
+          "price": 251,
+          "symbol": "USD",
+          "id": 79,
+          "index": 3,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S79_L04.png",
+              "layer": 4
+            },
+            {
+              "url": "/api/image/trait/150/S79_L07.png",
+              "layer": 7
+            },
+            {
+              "url": "/api/image/trait/150/S79_L11.png",
+              "layer": 11
+            }
+          ]
+        },
+        "eye": {
+          "rarity": 834,
+          "price": 472,
+          "symbol": "USD",
+          "id": 78,
+          "index": 10,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S78_L15.png",
+              "layer": 15
+            }
+          ]
+        },
+        "mouth": {
+          "rarity": 132,
+          "price": 763,
+          "symbol": "USD",
+          "id": 5,
+          "index": 8,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S05_L13.png",
+              "layer": 13
+            }
+          ]
+        },
+        "head": {
+          "rarity": 456,
+          "price": 764,
+          "symbol": "USD",
+          "id": 96,
+          "index": 9,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S96_L14.png",
+              "layer": 14
+            }
+          ]
+        },
+        "left-hand": {
+          "rarity": 180,
+          "price": 159,
+          "symbol": "USD",
+          "id": 12,
+          "index": 4,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S12_L05.png",
+              "layer": 5
+            }
+          ]
+        },
+        "neck": {
+          "rarity": 939,
+          "price": 146,
+          "symbol": "USD",
+          "id": 84,
+          "index": 5,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S84_L08.png",
+              "layer": 8
+            }
+          ]
+        },
+        "under-right-hand": {
+          "rarity": 514,
+          "price": 517,
+          "symbol": "USD",
+          "id": 0,
+          "index": 6,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S00_L09.png",
+              "layer": 9
+            }
+          ]
+        },
+        "over-right-hand": {
+          "rarity": 956,
+          "price": 371,
+          "symbol": "USD",
+          "id": 10,
+          "index": 7,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S10_L12.png",
+              "layer": 12
+            }
+          ]
+        },
+        "nose": {
+          "rarity": 70,
+          "price": 630,
+          "symbol": "USD",
+          "id": 48,
+          "index": 11,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S48_L16.png",
+              "layer": 16
+            }
+          ]
+        }
+      },
+      "oldRarity": 6202
+    },
+    {
+      "id": 7,
+      "rarity": 0,
+      "price": 0,
+      "assets": {
+        "body": {
+          "rarity": 757,
+          "price": 424,
+          "symbol": "USD",
+          "id": 20,
+          "index": 2,
+          "images": [
+            {
+              "url": "/api/image/trait/150/B20_L03.png",
+              "layer": 3
+            },
+            {
+              "url": "/api/image/trait/150/B20_L06.png",
+              "layer": 6
+            },
+            {
+              "url": "/api/image/trait/150/B20_L10.png",
+              "layer": 10
+            }
+          ]
+        },
+        "background": {
+          "rarity": 774,
+          "price": 893,
+          "symbol": "USD",
+          "id": 4,
+          "index": 0,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S04_L01.png",
+              "layer": 1
+            },
+            {
+              "url": "/api/image/trait/150/S04_L17.png",
+              "layer": 17
+            }
+          ]
+        },
+        "back": {
+          "rarity": 203,
+          "price": 400,
+          "symbol": "USD",
+          "id": 39,
+          "index": 1,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S39_L02.png",
+              "layer": 2
+            }
+          ]
+        },
+        "outfit": {
+          "rarity": 679,
+          "price": 372,
+          "symbol": "USD",
+          "id": 17,
+          "index": 3,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S17_L04.png",
+              "layer": 4
+            },
+            {
+              "url": "/api/image/trait/150/S17_L07.png",
+              "layer": 7
+            },
+            {
+              "url": "/api/image/trait/150/S17_L11.png",
+              "layer": 11
+            }
+          ]
+        },
+        "eye": {
+          "rarity": 822,
+          "price": 939,
+          "symbol": "USD",
+          "id": 106,
+          "index": 10,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S106_L15.png",
+              "layer": 15
+            }
+          ]
+        },
+        "mouth": {
+          "rarity": 216,
+          "price": 559,
+          "symbol": "USD",
+          "id": 76,
+          "index": 8,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S76_L13.png",
+              "layer": 13
+            }
+          ]
+        },
+        "head": {
+          "rarity": 542,
+          "price": 971,
+          "symbol": "USD",
+          "id": 108,
+          "index": 9,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S108_L14.png",
+              "layer": 14
+            }
+          ]
+        },
+        "left-hand": {
+          "rarity": 121,
+          "price": 673,
+          "symbol": "USD",
+          "id": 29,
+          "index": 4,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S29_L05.png",
+              "layer": 5
+            }
+          ]
+        },
+        "neck": {
+          "rarity": 950,
+          "price": 371,
+          "symbol": "USD",
+          "id": 0,
+          "index": 5,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S00_L08.png",
+              "layer": 8
+            }
+          ]
+        },
+        "under-right-hand": {
+          "rarity": 599,
+          "price": 589,
+          "symbol": "USD",
+          "id": 29,
+          "index": 6,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S29_L09.png",
+              "layer": 9
+            }
+          ]
+        },
+        "over-right-hand": {
+          "rarity": 955,
+          "price": 847,
+          "symbol": "USD",
+          "id": 0,
+          "index": 7,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S00_L12.png",
+              "layer": 12
+            }
+          ]
+        },
+        "nose": {
+          "rarity": 446,
+          "price": 683,
+          "symbol": "USD",
+          "id": 88,
+          "index": 11,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S88_L16.png",
+              "layer": 16
+            }
+          ]
+        }
+      },
+      "oldRarity": 7740
+    },
+    {
+      "id": 8,
+      "rarity": 0,
+      "price": 0,
+      "assets": {
+        "body": {
+          "rarity": 476,
+          "price": 501,
+          "symbol": "USD",
+          "id": 12,
+          "index": 2,
+          "images": [
+            {
+              "url": "/api/image/trait/150/B12_L03.png",
+              "layer": 3
+            },
+            {
+              "url": "/api/image/trait/150/B12_L06.png",
+              "layer": 6
+            },
+            {
+              "url": "/api/image/trait/150/B12_L10.png",
+              "layer": 10
+            }
+          ]
+        },
+        "background": {
+          "rarity": 187,
+          "price": 946,
+          "symbol": "USD",
+          "id": 3,
+          "index": 0,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S03_L01.png",
+              "layer": 1
+            },
+            {
+              "url": "/api/image/trait/150/S03_L17.png",
+              "layer": 17
+            }
+          ]
+        },
+        "back": {
+          "rarity": 668,
+          "price": 846,
+          "symbol": "USD",
+          "id": 13,
+          "index": 1,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S13_L02.png",
+              "layer": 2
+            }
+          ]
+        },
+        "outfit": {
+          "rarity": 172,
+          "price": 294,
+          "symbol": "USD",
+          "id": 5,
+          "index": 3,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S05_L04.png",
+              "layer": 4
+            },
+            {
+              "url": "/api/image/trait/150/S05_L07.png",
+              "layer": 7
+            },
+            {
+              "url": "/api/image/trait/150/S05_L11.png",
+              "layer": 11
+            }
+          ]
+        },
+        "eye": {
+          "rarity": 459,
+          "price": 962,
+          "symbol": "USD",
+          "id": 5,
+          "index": 10,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S05_L15.png",
+              "layer": 15
+            }
+          ]
+        },
+        "mouth": {
+          "rarity": 902,
+          "price": 386,
+          "symbol": "USD",
+          "id": 11,
+          "index": 8,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S11_L13.png",
+              "layer": 13
+            }
+          ]
+        },
+        "head": {
+          "rarity": 941,
+          "price": 63,
+          "symbol": "USD",
+          "id": 105,
+          "index": 9,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S105_L14.png",
+              "layer": 14
+            }
+          ]
+        },
+        "left-hand": {
+          "rarity": 98,
+          "price": 507,
+          "symbol": "USD",
+          "id": 0,
+          "index": 4,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S00_L05.png",
+              "layer": 5
+            }
+          ]
+        },
+        "neck": {
+          "rarity": 493,
+          "price": 743,
+          "symbol": "USD",
+          "id": 83,
+          "index": 5,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S83_L08.png",
+              "layer": 8
+            }
+          ]
+        },
+        "under-right-hand": {
+          "rarity": 320,
+          "price": 677,
+          "symbol": "USD",
+          "id": 0,
+          "index": 6,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S00_L09.png",
+              "layer": 9
+            }
+          ]
+        },
+        "over-right-hand": {
+          "rarity": 3,
+          "price": 260,
+          "symbol": "USD",
+          "id": 26,
+          "index": 7,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S26_L12.png",
+              "layer": 12
+            }
+          ]
+        },
+        "nose": {
+          "rarity": 874,
+          "price": 856,
+          "symbol": "USD",
+          "id": 57,
+          "index": 11,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S57_L16.png",
+              "layer": 16
+            }
+          ]
+        }
+      },
+      "oldRarity": 6017
+    },
+    {
+      "id": 9,
+      "rarity": 0,
+      "price": 0,
+      "assets": {
+        "body": {
+          "rarity": 52,
+          "price": 289,
+          "symbol": "USD",
+          "id": 47,
+          "index": 2,
+          "images": [
+            {
+              "url": "/api/image/trait/150/B47_L03.png",
+              "layer": 3
+            },
+            {
+              "url": "/api/image/trait/150/B47_L06.png",
+              "layer": 6
+            },
+            {
+              "url": "/api/image/trait/150/B47_L10.png",
+              "layer": 10
+            }
+          ]
+        },
+        "background": {
+          "rarity": 949,
+          "price": 874,
+          "symbol": "USD",
+          "id": 8,
+          "index": 0,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S08_L01.png",
+              "layer": 1
+            },
+            {
+              "url": "/api/image/trait/150/S08_L17.png",
+              "layer": 17
+            }
+          ]
+        },
+        "back": {
+          "rarity": 774,
+          "price": 899,
+          "symbol": "USD",
+          "id": 48,
+          "index": 1,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S48_L02.png",
+              "layer": 2
+            }
+          ]
+        },
+        "outfit": {
+          "rarity": 415,
+          "price": 310,
+          "symbol": "USD",
+          "id": 66,
+          "index": 3,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S66_L04.png",
+              "layer": 4
+            },
+            {
+              "url": "/api/image/trait/150/S66_L07.png",
+              "layer": 7
+            },
+            {
+              "url": "/api/image/trait/150/S66_L11.png",
+              "layer": 11
+            }
+          ]
+        },
+        "eye": {
+          "rarity": 791,
+          "price": 202,
+          "symbol": "USD",
+          "id": 98,
+          "index": 10,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S98_L15.png",
+              "layer": 15
+            }
+          ]
+        },
+        "mouth": {
+          "rarity": 193,
+          "price": 866,
+          "symbol": "USD",
+          "id": 77,
+          "index": 8,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S77_L13.png",
+              "layer": 13
+            }
+          ]
+        },
+        "head": {
+          "rarity": 504,
+          "price": 639,
+          "symbol": "USD",
+          "id": 100,
+          "index": 9,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S100_L14.png",
+              "layer": 14
+            }
+          ]
+        },
+        "left-hand": {
+          "rarity": 831,
+          "price": 748,
+          "symbol": "USD",
+          "id": 49,
+          "index": 4,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S49_L05.png",
+              "layer": 5
+            }
+          ]
+        },
+        "neck": {
+          "rarity": 950,
+          "price": 371,
+          "symbol": "USD",
+          "id": 0,
+          "index": 5,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S00_L08.png",
+              "layer": 8
+            }
+          ]
+        },
+        "under-right-hand": {
+          "rarity": 320,
+          "price": 677,
+          "symbol": "USD",
+          "id": 0,
+          "index": 6,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S00_L09.png",
+              "layer": 9
+            }
+          ]
+        },
+        "over-right-hand": {
+          "rarity": 355,
+          "price": 942,
+          "symbol": "USD",
+          "id": 8,
+          "index": 7,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S08_L12.png",
+              "layer": 12
+            }
+          ]
+        },
+        "nose": {
+          "rarity": 879,
+          "price": 239,
+          "symbol": "USD",
+          "id": 85,
+          "index": 11,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S85_L16.png",
+              "layer": 16
+            }
+          ]
+        }
+      },
+      "oldRarity": 6987
+    },
+    {
+      "id": 10,
+      "rarity": 0,
+      "price": 0,
+      "assets": {
+        "body": {
+          "rarity": 87,
+          "price": 996,
+          "symbol": "USD",
+          "id": 59,
+          "index": 2,
+          "images": [
+            {
+              "url": "/api/image/trait/150/B59_L03.png",
+              "layer": 3
+            },
+            {
+              "url": "/api/image/trait/150/B59_L06.png",
+              "layer": 6
+            },
+            {
+              "url": "/api/image/trait/150/B59_L10.png",
+              "layer": 10
+            }
+          ]
+        },
+        "background": {
+          "rarity": 963,
+          "price": 452,
+          "symbol": "USD",
+          "id": 2,
+          "index": 0,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S02_L01.png",
+              "layer": 1
+            },
+            {
+              "url": "/api/image/trait/150/S02_L17.png",
+              "layer": 17
+            }
+          ]
+        },
+        "back": {
+          "rarity": 933,
+          "price": 902,
+          "symbol": "USD",
+          "id": 52,
+          "index": 1,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S52_L02.png",
+              "layer": 2
+            }
+          ]
+        },
+        "outfit": {
+          "rarity": 479,
+          "price": 261,
+          "symbol": "USD",
+          "id": 0,
+          "index": 3,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S00_L04.png",
+              "layer": 4
+            },
+            {
+              "url": "/api/image/trait/150/S00_L07.png",
+              "layer": 7
+            },
+            {
+              "url": "/api/image/trait/150/S00_L11.png",
+              "layer": 11
+            }
+          ]
+        },
+        "eye": {
+          "rarity": 182,
+          "price": 920,
+          "symbol": "USD",
+          "id": 96,
+          "index": 10,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S96_L15.png",
+              "layer": 15
+            }
+          ]
+        },
+        "mouth": {
+          "rarity": 484,
+          "price": 383,
+          "symbol": "USD",
+          "id": 19,
+          "index": 8,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S19_L13.png",
+              "layer": 13
+            }
+          ]
+        },
+        "head": {
+          "rarity": 746,
+          "price": 514,
+          "symbol": "USD",
+          "id": 102,
+          "index": 9,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S102_L14.png",
+              "layer": 14
+            }
+          ]
+        },
+        "left-hand": {
+          "rarity": 291,
+          "price": 456,
+          "symbol": "USD",
+          "id": 20,
+          "index": 4,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S20_L05.png",
+              "layer": 5
+            }
+          ]
+        },
+        "neck": {
+          "rarity": 950,
+          "price": 371,
+          "symbol": "USD",
+          "id": 0,
+          "index": 5,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S00_L08.png",
+              "layer": 8
+            }
+          ]
+        },
+        "under-right-hand": {
+          "rarity": 320,
+          "price": 677,
+          "symbol": "USD",
+          "id": 0,
+          "index": 6,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S00_L09.png",
+              "layer": 9
+            }
+          ]
+        },
+        "over-right-hand": {
+          "rarity": 955,
+          "price": 847,
+          "symbol": "USD",
+          "id": 0,
+          "index": 7,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S00_L12.png",
+              "layer": 12
+            }
+          ]
+        },
+        "nose": {
+          "rarity": 132,
+          "price": 104,
+          "symbol": "USD",
+          "id": 0,
+          "index": 11,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S00_L16.png",
+              "layer": 16
+            }
+          ]
+        }
+      },
+      "oldRarity": 7036
+    },
+    {
+      "id": 11,
+      "rarity": 0,
+      "price": 0,
+      "assets": {
+        "body": {
+          "rarity": 918,
+          "price": 909,
+          "symbol": "USD",
+          "id": 41,
+          "index": 2,
+          "images": [
+            {
+              "url": "/api/image/trait/150/B41_L03.png",
+              "layer": 3
+            },
+            {
+              "url": "/api/image/trait/150/B41_L06.png",
+              "layer": 6
+            },
+            {
+              "url": "/api/image/trait/150/B41_L10.png",
+              "layer": 10
+            }
+          ]
+        },
+        "background": {
+          "rarity": 187,
+          "price": 946,
+          "symbol": "USD",
+          "id": 3,
+          "index": 0,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S03_L01.png",
+              "layer": 1
+            },
+            {
+              "url": "/api/image/trait/150/S03_L17.png",
+              "layer": 17
+            }
+          ]
+        },
+        "back": {
+          "rarity": 640,
+          "price": 791,
+          "symbol": "USD",
+          "id": 47,
+          "index": 1,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S47_L02.png",
+              "layer": 2
+            }
+          ]
+        },
+        "outfit": {
+          "rarity": 435,
+          "price": 441,
+          "symbol": "USD",
+          "id": 92,
+          "index": 3,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S92_L04.png",
+              "layer": 4
+            },
+            {
+              "url": "/api/image/trait/150/S92_L07.png",
+              "layer": 7
+            },
+            {
+              "url": "/api/image/trait/150/S92_L11.png",
+              "layer": 11
+            }
+          ]
+        },
+        "eye": {
+          "rarity": 410,
+          "price": 372,
+          "symbol": "USD",
+          "id": 95,
+          "index": 10,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S95_L15.png",
+              "layer": 15
+            }
+          ]
+        },
+        "mouth": {
+          "rarity": 806,
+          "price": 233,
+          "symbol": "USD",
+          "id": 8,
+          "index": 8,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S08_L13.png",
+              "layer": 13
+            }
+          ]
+        },
+        "head": {
+          "rarity": 938,
+          "price": 809,
+          "symbol": "USD",
+          "id": 97,
+          "index": 9,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S97_L14.png",
+              "layer": 14
+            }
+          ]
+        },
+        "left-hand": {
+          "rarity": 805,
+          "price": 695,
+          "symbol": "USD",
+          "id": 19,
+          "index": 4,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S19_L05.png",
+              "layer": 5
+            }
+          ]
+        },
+        "neck": {
+          "rarity": 163,
+          "price": 659,
+          "symbol": "USD",
+          "id": 36,
+          "index": 5,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S36_L08.png",
+              "layer": 8
+            }
+          ]
+        },
+        "under-right-hand": {
+          "rarity": 320,
+          "price": 677,
+          "symbol": "USD",
+          "id": 0,
+          "index": 6,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S00_L09.png",
+              "layer": 9
+            }
+          ]
+        },
+        "over-right-hand": {
+          "rarity": 836,
+          "price": 374,
+          "symbol": "USD",
+          "id": 13,
+          "index": 7,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S13_L12.png",
+              "layer": 12
+            }
+          ]
+        },
+        "nose": {
+          "rarity": 2,
+          "price": 762,
+          "symbol": "USD",
+          "id": 79,
+          "index": 11,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S79_L16.png",
+              "layer": 16
+            }
+          ]
+        }
+      },
+      "oldRarity": 7253
+    },
+    {
+      "id": 12,
+      "rarity": 0,
+      "price": 0,
+      "assets": {
+        "body": {
+          "rarity": 816,
+          "price": 908,
+          "symbol": "USD",
+          "id": 11,
+          "index": 2,
+          "images": [
+            {
+              "url": "/api/image/trait/150/B11_L03.png",
+              "layer": 3
+            },
+            {
+              "url": "/api/image/trait/150/B11_L06.png",
+              "layer": 6
+            },
+            {
+              "url": "/api/image/trait/150/B11_L10.png",
+              "layer": 10
+            }
+          ]
+        },
+        "background": {
+          "rarity": 772,
+          "price": 570,
+          "symbol": "USD",
+          "id": 5,
+          "index": 0,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S05_L01.png",
+              "layer": 1
+            },
+            {
+              "url": "/api/image/trait/150/S05_L17.png",
+              "layer": 17
+            }
+          ]
+        },
+        "back": {
+          "rarity": 657,
+          "price": 698,
+          "symbol": "USD",
+          "id": 0,
+          "index": 1,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S00_L02.png",
+              "layer": 2
+            }
+          ]
+        },
+        "outfit": {
+          "rarity": 68,
+          "price": 919,
+          "symbol": "USD",
+          "id": 2,
+          "index": 3,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S02_L04.png",
+              "layer": 4
+            },
+            {
+              "url": "/api/image/trait/150/S02_L07.png",
+              "layer": 7
+            },
+            {
+              "url": "/api/image/trait/150/S02_L11.png",
+              "layer": 11
+            }
+          ]
+        },
+        "eye": {
+          "rarity": 310,
+          "price": 29,
+          "symbol": "USD",
+          "id": 38,
+          "index": 10,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S38_L15.png",
+              "layer": 15
+            }
+          ]
+        },
+        "mouth": {
+          "rarity": 238,
+          "price": 294,
+          "symbol": "USD",
+          "id": 78,
+          "index": 8,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S78_L13.png",
+              "layer": 13
+            }
+          ]
+        },
+        "head": {
+          "rarity": 606,
+          "price": 200,
+          "symbol": "USD",
+          "id": 46,
+          "index": 9,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S46_L14.png",
+              "layer": 14
+            }
+          ]
+        },
+        "left-hand": {
+          "rarity": 98,
+          "price": 507,
+          "symbol": "USD",
+          "id": 0,
+          "index": 4,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S00_L05.png",
+              "layer": 5
+            }
+          ]
+        },
+        "neck": {
+          "rarity": 950,
+          "price": 371,
+          "symbol": "USD",
+          "id": 0,
+          "index": 5,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S00_L08.png",
+              "layer": 8
+            }
+          ]
+        },
+        "under-right-hand": {
+          "rarity": 878,
+          "price": 399,
+          "symbol": "USD",
+          "id": 52,
+          "index": 6,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S52_L09.png",
+              "layer": 9
+            }
+          ]
+        },
+        "over-right-hand": {
+          "rarity": 955,
+          "price": 847,
+          "symbol": "USD",
+          "id": 0,
+          "index": 7,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S00_L12.png",
+              "layer": 12
+            }
+          ]
+        },
+        "nose": {
+          "rarity": 309,
+          "price": 464,
+          "symbol": "USD",
+          "id": 80,
+          "index": 11,
+          "images": [
+            {
+              "url": "/api/image/trait/150/S80_L16.png",
+              "layer": 16
+            }
+          ]
+        }
+      },
+      "oldRarity": 6546
+    }
+  ]
+}

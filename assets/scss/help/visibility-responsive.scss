@@ -1,0 +1,49 @@
+.visible {
+  display: block;
+  @each $name, $width in $breakpoints {
+    &-to-#{$name} {
+      @include respond-to($name) {
+        display: block;
+      }
+    }
+    &-before-#{$name} {
+      @include respond-before($name) {
+        display: block;
+      }
+    }
+  }
+}
+
+.visible-flex {
+  display: flex;
+
+  @each $name, $width in $breakpoints {
+    &-to-#{$name} {
+      @include respond-to($name) {
+        display: flex;
+      }
+    }
+    &-before-#{$name} {
+      @include respond-before($name) {
+        display: flex;
+      }
+    }
+  }
+}
+
+.hidden {
+  display: none;
+
+  @each $name, $width in $breakpoints {
+    &-to-#{$name} {
+      @include respond-to($name) {
+        display: none !important;
+      }
+    }
+    &-before-#{$name} {
+      @include respond-before($name) {
+        display: none !important;
+      }
+    }
+  }
+}

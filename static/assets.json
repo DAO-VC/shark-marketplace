@@ -1,0 +1,2109 @@
+{
+  "data": [
+    {
+      "category": "body",
+      "label": "Body",
+      "img": "/categories/body.png",
+      "items": [
+        {
+          "rarity": 72,
+          "price": 96,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "B01_L06",
+              "layer": 6,
+              "folder": "body"
+            },
+            {
+              "id": "B01_L03",
+              "layer": 3,
+              "folder": "left-hand"
+            },
+            {
+              "id": "B01_L10",
+              "layer": 10,
+              "folder": "right-hand"
+            }
+          ],
+          "id": "body-0"
+        },
+        {
+          "rarity": 29,
+          "price": 81,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "B02_L06",
+              "layer": 6,
+              "folder": "body"
+            },
+            {
+              "id": "B02_L03",
+              "layer": 3,
+              "folder": "left-hand"
+            },
+            {
+              "id": "B02_L10",
+              "layer": 10,
+              "folder": "right-hand"
+            }
+          ],
+          "id": "body-1"
+        },
+        {
+          "rarity": 31,
+          "price": 6,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "B03_L06",
+              "layer": 6,
+              "folder": "body"
+            },
+            {
+              "id": "B03_L03",
+              "layer": 3,
+              "folder": "left-hand"
+            },
+            {
+              "id": "B03_L10",
+              "layer": 10,
+              "folder": "right-hand"
+            }
+          ],
+          "id": "body-2"
+        },
+        {
+          "rarity": 34,
+          "price": 72,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "B04_L06",
+              "layer": 6,
+              "folder": "body"
+            },
+            {
+              "id": "B04_L03",
+              "layer": 3,
+              "folder": "left-hand"
+            },
+            {
+              "id": "B04_L10",
+              "layer": 10,
+              "folder": "right-hand"
+            }
+          ],
+          "id": "body-3"
+        },
+        {
+          "rarity": 34,
+          "price": 71,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "B05_L06",
+              "layer": 6,
+              "folder": "body"
+            },
+            {
+              "id": "B05_L03",
+              "layer": 3,
+              "folder": "left-hand"
+            },
+            {
+              "id": "B05_L10",
+              "layer": 10,
+              "folder": "right-hand"
+            }
+          ],
+          "id": "body-4"
+        },
+        {
+          "rarity": 39,
+          "price": 84,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "B06_L06",
+              "layer": 6,
+              "folder": "body"
+            },
+            {
+              "id": "B06_L03",
+              "layer": 3,
+              "folder": "left-hand"
+            },
+            {
+              "id": "B06_L10",
+              "layer": 10,
+              "folder": "right-hand"
+            }
+          ],
+          "id": "body-5"
+        },
+        {
+          "rarity": 39,
+          "price": 46,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "B07_L06",
+              "layer": 6,
+              "folder": "body"
+            },
+            {
+              "id": "B07_L03",
+              "layer": 3,
+              "folder": "left-hand"
+            },
+            {
+              "id": "B07_L10",
+              "layer": 10,
+              "folder": "right-hand"
+            }
+          ],
+          "id": "body-6"
+        },
+        {
+          "rarity": 67,
+          "price": 68,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "B08_L06",
+              "layer": 6,
+              "folder": "body"
+            },
+            {
+              "id": "B08_L03",
+              "layer": 3,
+              "folder": "left-hand"
+            },
+            {
+              "id": "B08_L10",
+              "layer": 10,
+              "folder": "right-hand"
+            }
+          ],
+          "id": "body-7"
+        },
+        {
+          "rarity": 98,
+          "price": 99,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "B09_L06",
+              "layer": 6,
+              "folder": "body"
+            },
+            {
+              "id": "B09_L03",
+              "layer": 3,
+              "folder": "left-hand"
+            },
+            {
+              "id": "B09_L10",
+              "layer": 10,
+              "folder": "right-hand"
+            }
+          ],
+          "id": "body-8"
+        },
+        {
+          "rarity": 14,
+          "price": 80,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "B10_L06",
+              "layer": 6,
+              "folder": "body"
+            },
+            {
+              "id": "B10_L03",
+              "layer": 3,
+              "folder": "left-hand"
+            },
+            {
+              "id": "B10_L10",
+              "layer": 10,
+              "folder": "right-hand"
+            }
+          ],
+          "id": "body-9"
+        },
+        {
+          "rarity": 64,
+          "price": 91,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "B11_L06",
+              "layer": 6,
+              "folder": "body"
+            },
+            {
+              "id": "B11_L03",
+              "layer": 3,
+              "folder": "left-hand"
+            },
+            {
+              "id": "B11_L10",
+              "layer": 10,
+              "folder": "right-hand"
+            }
+          ],
+          "id": "body-10"
+        },
+        {
+          "rarity": 96,
+          "price": 19,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "B12_L06",
+              "layer": 6,
+              "folder": "body"
+            },
+            {
+              "id": "B12_L03",
+              "layer": 3,
+              "folder": "left-hand"
+            },
+            {
+              "id": "B12_L10",
+              "layer": 10,
+              "folder": "right-hand"
+            }
+          ],
+          "id": "body-11"
+        },
+        {
+          "rarity": 37,
+          "price": 62,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "B13_L06",
+              "layer": 6,
+              "folder": "body"
+            },
+            {
+              "id": "B13_L03",
+              "layer": 3,
+              "folder": "left-hand"
+            },
+            {
+              "id": "B13_L10",
+              "layer": 10,
+              "folder": "right-hand"
+            }
+          ],
+          "id": "body-12"
+        },
+        {
+          "rarity": 99,
+          "price": 3,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "B14_L06",
+              "layer": 6,
+              "folder": "body"
+            },
+            {
+              "id": "B14_L03",
+              "layer": 3,
+              "folder": "left-hand"
+            },
+            {
+              "id": "B14_L10",
+              "layer": 10,
+              "folder": "right-hand"
+            }
+          ],
+          "id": "body-13"
+        },
+        {
+          "rarity": 37,
+          "price": 51,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "B15_L06",
+              "layer": 6,
+              "folder": "body"
+            },
+            {
+              "id": "B15_L03",
+              "layer": 3,
+              "folder": "left-hand"
+            },
+            {
+              "id": "B15_L10",
+              "layer": 10,
+              "folder": "right-hand"
+            }
+          ],
+          "id": "body-14"
+        },
+        {
+          "rarity": 99,
+          "price": 1,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "B16_L06",
+              "layer": 6,
+              "folder": "body"
+            },
+            {
+              "id": "B16_L03",
+              "layer": 3,
+              "folder": "left-hand"
+            },
+            {
+              "id": "B16_L10",
+              "layer": 10,
+              "folder": "right-hand"
+            }
+          ],
+          "id": "body-15"
+        },
+        {
+          "rarity": 60,
+          "price": 22,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "B17_L06",
+              "layer": 6,
+              "folder": "body"
+            },
+            {
+              "id": "B17_L03",
+              "layer": 3,
+              "folder": "left-hand"
+            },
+            {
+              "id": "B17_L10",
+              "layer": 10,
+              "folder": "right-hand"
+            }
+          ],
+          "id": "body-16"
+        },
+        {
+          "rarity": 84,
+          "price": 55,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "B18_L06",
+              "layer": 6,
+              "folder": "body"
+            },
+            {
+              "id": "B18_L03",
+              "layer": 3,
+              "folder": "left-hand"
+            },
+            {
+              "id": "B18_L10",
+              "layer": 10,
+              "folder": "right-hand"
+            }
+          ],
+          "id": "body-17"
+        },
+        {
+          "rarity": 28,
+          "price": 42,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "B19_L06",
+              "layer": 6,
+              "folder": "body"
+            },
+            {
+              "id": "B19_L03",
+              "layer": 3,
+              "folder": "left-hand"
+            },
+            {
+              "id": "B19_L10",
+              "layer": 10,
+              "folder": "right-hand"
+            }
+          ],
+          "id": "body-18"
+        },
+        {
+          "rarity": 47,
+          "price": 44,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "B20_L06",
+              "layer": 6,
+              "folder": "body"
+            },
+            {
+              "id": "B20_L03",
+              "layer": 3,
+              "folder": "left-hand"
+            },
+            {
+              "id": "B20_L10",
+              "layer": 10,
+              "folder": "right-hand"
+            }
+          ],
+          "id": "body-19"
+        },
+        {
+          "rarity": 78,
+          "price": 8,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "B21_L06",
+              "layer": 6,
+              "folder": "body"
+            },
+            {
+              "id": "B21_L03",
+              "layer": 3,
+              "folder": "left-hand"
+            },
+            {
+              "id": "B21_L10",
+              "layer": 10,
+              "folder": "right-hand"
+            }
+          ],
+          "id": "body-20"
+        },
+        {
+          "rarity": 69,
+          "price": 41,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "B22_L06",
+              "layer": 6,
+              "folder": "body"
+            },
+            {
+              "id": "B22_L03",
+              "layer": 3,
+              "folder": "left-hand"
+            },
+            {
+              "id": "B22_L10",
+              "layer": 10,
+              "folder": "right-hand"
+            }
+          ],
+          "id": "body-21"
+        },
+        {
+          "rarity": 3,
+          "price": 62,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "B23_L06",
+              "layer": 6,
+              "folder": "body"
+            },
+            {
+              "id": "B23_L03",
+              "layer": 3,
+              "folder": "left-hand"
+            },
+            {
+              "id": "B23_L10",
+              "layer": 10,
+              "folder": "right-hand"
+            }
+          ],
+          "id": "body-22"
+        },
+        {
+          "rarity": 78,
+          "price": 76,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "B24_L06",
+              "layer": 6,
+              "folder": "body"
+            },
+            {
+              "id": "B24_L03",
+              "layer": 3,
+              "folder": "left-hand"
+            },
+            {
+              "id": "B24_L10",
+              "layer": 10,
+              "folder": "right-hand"
+            }
+          ],
+          "id": "body-23"
+        }
+      ]
+    },
+    {
+      "category": "eye",
+      "label": "Eye",
+      "img": "/categories/eye.png",
+      "items": [
+        {
+          "rarity": 56,
+          "price": 20,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S02_L15",
+              "layer": 15,
+              "folder": "eye"
+            }
+          ],
+          "id": "eye-0"
+        },
+        {
+          "rarity": 19,
+          "price": 1,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S101_L15",
+              "layer": 15,
+              "folder": "eye"
+            }
+          ],
+          "id": "eye-1"
+        },
+        {
+          "rarity": 19,
+          "price": 5,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S13_L15",
+              "layer": 15,
+              "folder": "eye"
+            }
+          ],
+          "id": "eye-2"
+        },
+        {
+          "rarity": 95,
+          "price": 10,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S20_L15",
+              "layer": 15,
+              "folder": "eye"
+            }
+          ],
+          "id": "eye-3"
+        },
+        {
+          "rarity": 70,
+          "price": 6,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S29_L15",
+              "layer": 15,
+              "folder": "eye"
+            }
+          ],
+          "id": "eye-4"
+        },
+        {
+          "rarity": 97,
+          "price": 54,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S35_L15",
+              "layer": 15,
+              "folder": "eye"
+            }
+          ],
+          "id": "eye-5"
+        },
+        {
+          "rarity": 4,
+          "price": 89,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S41_L15",
+              "layer": 15,
+              "folder": "eye"
+            }
+          ],
+          "id": "eye-6"
+        },
+        {
+          "rarity": 23,
+          "price": 97,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S48_L15",
+              "layer": 15,
+              "folder": "eye"
+            }
+          ],
+          "id": "eye-7"
+        },
+        {
+          "rarity": 96,
+          "price": 43,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S95_L15",
+              "layer": 15,
+              "folder": "eye"
+            }
+          ],
+          "id": "eye-8"
+        },
+        {
+          "rarity": 42,
+          "price": 35,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S96_L15",
+              "layer": 15,
+              "folder": "eye"
+            }
+          ],
+          "id": "eye-9"
+        }
+      ]
+    },
+    {
+      "category": "item-head",
+      "label": "Head",
+      "img": "/categories/head.png",
+      "items": [
+        {
+          "rarity": 41,
+          "price": 66,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S01_L14",
+              "layer": 14,
+              "folder": "item-head"
+            }
+          ],
+          "id": "item-head-0"
+        },
+        {
+          "rarity": 62,
+          "price": 1,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S02_L14",
+              "layer": 14,
+              "folder": "item-head"
+            }
+          ],
+          "id": "item-head-1"
+        },
+        {
+          "rarity": 99,
+          "price": 26,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S07_L14",
+              "layer": 14,
+              "folder": "item-head"
+            }
+          ],
+          "id": "item-head-2"
+        },
+        {
+          "rarity": 37,
+          "price": 58,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S21_L14",
+              "layer": 14,
+              "folder": "item-head"
+            }
+          ],
+          "id": "item-head-3"
+        },
+        {
+          "rarity": 84,
+          "price": 57,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S22_L14",
+              "layer": 14,
+              "folder": "item-head"
+            }
+          ],
+          "id": "item-head-4"
+        },
+        {
+          "rarity": 46,
+          "price": 80,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S36_L14",
+              "layer": 14,
+              "folder": "item-head"
+            }
+          ],
+          "id": "item-head-5"
+        },
+        {
+          "rarity": 67,
+          "price": 45,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S40_L14",
+              "layer": 14,
+              "folder": "item-head"
+            }
+          ],
+          "id": "item-head-6"
+        },
+        {
+          "rarity": 98,
+          "price": 82,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S62_L14",
+              "layer": 14,
+              "folder": "item-head"
+            }
+          ],
+          "id": "item-head-7"
+        },
+        {
+          "rarity": 88,
+          "price": 26,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S67_L14",
+              "layer": 14,
+              "folder": "item-head"
+            }
+          ],
+          "id": "item-head-8"
+        },
+        {
+          "rarity": 99,
+          "price": 3,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S97_L14",
+              "layer": 14,
+              "folder": "item-head"
+            }
+          ],
+          "id": "item-head-9"
+        }
+      ]
+    },
+    {
+      "category": "mouth",
+      "label": "Mouth",
+      "img": "/categories/mouth.png",
+      "items": [
+        {
+          "rarity": 17,
+          "price": 87,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S01_L13",
+              "layer": 13,
+              "folder": "mouth"
+            }
+          ],
+          "id": "mouth-0"
+        },
+        {
+          "rarity": 4,
+          "price": 43,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S02_L13",
+              "layer": 13,
+              "folder": "mouth"
+            }
+          ],
+          "id": "mouth-1"
+        },
+        {
+          "rarity": 47,
+          "price": 89,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S07_L13",
+              "layer": 13,
+              "folder": "mouth"
+            }
+          ],
+          "id": "mouth-2"
+        },
+        {
+          "rarity": 67,
+          "price": 13,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S11_L13",
+              "layer": 13,
+              "folder": "mouth"
+            }
+          ],
+          "id": "mouth-3"
+        },
+        {
+          "rarity": 40,
+          "price": 54,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S13_L13",
+              "layer": 13,
+              "folder": "mouth"
+            }
+          ],
+          "id": "mouth-4"
+        },
+        {
+          "rarity": 63,
+          "price": 26,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S24_L13",
+              "layer": 13,
+              "folder": "mouth"
+            }
+          ],
+          "id": "mouth-5"
+        },
+        {
+          "rarity": 43,
+          "price": 18,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S28_L13",
+              "layer": 13,
+              "folder": "mouth"
+            }
+          ],
+          "id": "mouth-6"
+        },
+        {
+          "rarity": 27,
+          "price": 87,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S29_L13",
+              "layer": 13,
+              "folder": "mouth"
+            }
+          ],
+          "id": "mouth-7"
+        },
+        {
+          "rarity": 80,
+          "price": 82,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S43_L13",
+              "layer": 13,
+              "folder": "mouth"
+            }
+          ],
+          "id": "mouth-8"
+        },
+        {
+          "rarity": 13,
+          "price": 36,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S53_L13",
+              "layer": 13,
+              "folder": "mouth"
+            }
+          ],
+          "id": "mouth-9"
+        },
+        {
+          "rarity": 65,
+          "price": 82,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S69_L13",
+              "layer": 13,
+              "folder": "mouth"
+            }
+          ],
+          "id": "mouth-10"
+        }
+      ]
+    },
+    {
+      "category": "item-nose",
+      "label": "Nose",
+      "img": "/categories/nose.png",
+      "items": [
+        {
+          "rarity": 90,
+          "price": 100,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S01_L16",
+              "layer": 16,
+              "folder": "item-nose"
+            }
+          ],
+          "id": "item-nose-0"
+        },
+        {
+          "rarity": 69,
+          "price": 44,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S02_L16",
+              "layer": 16,
+              "folder": "item-nose"
+            }
+          ],
+          "id": "item-nose-1"
+        },
+        {
+          "rarity": 71,
+          "price": 91,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S11_L16",
+              "layer": 16,
+              "folder": "item-nose"
+            }
+          ],
+          "id": "item-nose-2"
+        },
+        {
+          "rarity": 31,
+          "price": 6,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S20_L16",
+              "layer": 16,
+              "folder": "item-nose"
+            }
+          ],
+          "id": "item-nose-3"
+        },
+        {
+          "rarity": 26,
+          "price": 3,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S36_L16",
+              "layer": 16,
+              "folder": "item-nose"
+            }
+          ],
+          "id": "item-nose-4"
+        },
+        {
+          "rarity": 91,
+          "price": 8,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S45_L16",
+              "layer": 16,
+              "folder": "item-nose"
+            }
+          ],
+          "id": "item-nose-5"
+        },
+        {
+          "rarity": 26,
+          "price": 16,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S50_L16",
+              "layer": 16,
+              "folder": "item-nose"
+            }
+          ],
+          "id": "item-nose-6"
+        },
+        {
+          "rarity": 67,
+          "price": 63,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S70_L16",
+              "layer": 16,
+              "folder": "item-nose"
+            }
+          ],
+          "id": "item-nose-7"
+        },
+        {
+          "rarity": 41,
+          "price": 37,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S79_L16",
+              "layer": 16,
+              "folder": "item-nose"
+            }
+          ],
+          "id": "item-nose-8"
+        },
+        {
+          "rarity": 62,
+          "price": 33,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S81_L16",
+              "layer": 16,
+              "folder": "item-nose"
+            }
+          ],
+          "id": "item-nose-9"
+        }
+      ]
+    },
+    {
+      "category": "item-neck",
+      "label": "Neck",
+      "img": "/categories/neck.png",
+      "items": [
+        {
+          "rarity": 56,
+          "price": 35,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S01_L08",
+              "layer": 8,
+              "folder": "item-neck"
+            }
+          ],
+          "id": "item-neck-0"
+        },
+        {
+          "rarity": 40,
+          "price": 96,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S04_L08",
+              "layer": 8,
+              "folder": "item-neck"
+            }
+          ],
+          "id": "item-neck-1"
+        },
+        {
+          "rarity": 91,
+          "price": 84,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S35_L08",
+              "layer": 8,
+              "folder": "item-neck"
+            }
+          ],
+          "id": "item-neck-2"
+        },
+        {
+          "rarity": 56,
+          "price": 1,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S44_L08",
+              "layer": 8,
+              "folder": "item-neck"
+            }
+          ],
+          "id": "item-neck-3"
+        },
+        {
+          "rarity": 73,
+          "price": 12,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S48_L08",
+              "layer": 8,
+              "folder": "item-neck"
+            }
+          ],
+          "id": "item-neck-4"
+        },
+        {
+          "rarity": 9,
+          "price": 4,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S54_L08",
+              "layer": 8,
+              "folder": "item-neck"
+            }
+          ],
+          "id": "item-neck-5"
+        },
+        {
+          "rarity": 92,
+          "price": 60,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S55_L08",
+              "layer": 8,
+              "folder": "item-neck"
+            }
+          ],
+          "id": "item-neck-6"
+        },
+        {
+          "rarity": 83,
+          "price": 22,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S63_L08",
+              "layer": 8,
+              "folder": "item-neck"
+            }
+          ],
+          "id": "item-neck-7"
+        },
+        {
+          "rarity": 92,
+          "price": 74,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S75_L08",
+              "layer": 8,
+              "folder": "item-neck"
+            }
+          ],
+          "id": "item-neck-8"
+        },
+        {
+          "rarity": 5,
+          "price": 43,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S78_L08",
+              "layer": 8,
+              "folder": "item-neck"
+            }
+          ],
+          "id": "item-neck-9"
+        }
+      ]
+    },
+    {
+      "category": "outfit-body",
+      "label": "Outfit",
+      "img": "/categories/outfit.png",
+      "items": [
+        {
+          "rarity": 39,
+          "price": 66,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S01_L07",
+              "layer": 7,
+              "folder": "outfit-body"
+            },
+            {
+              "id": "S01_L04",
+              "layer": 4,
+              "folder": "outfit-left-hand"
+            },
+            {
+              "id": "S01_L11",
+              "layer": 11,
+              "folder": "outfit-right-hand"
+            }
+          ],
+          "id": "outfit-body-0"
+        },
+        {
+          "rarity": 85,
+          "price": 26,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S05_L07",
+              "layer": 7,
+              "folder": "outfit-body"
+            },
+            {
+              "id": "S05_L04",
+              "layer": 4,
+              "folder": "outfit-left-hand"
+            },
+            {
+              "id": "S05_L11",
+              "layer": 11,
+              "folder": "outfit-right-hand"
+            }
+          ],
+          "id": "outfit-body-1"
+        },
+        {
+          "rarity": 63,
+          "price": 22,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S11_L07",
+              "layer": 7,
+              "folder": "outfit-body"
+            },
+            {
+              "id": "S11_L04",
+              "layer": 4,
+              "folder": "outfit-left-hand"
+            },
+            {
+              "id": "S11_L11",
+              "layer": 11,
+              "folder": "outfit-right-hand"
+            }
+          ],
+          "id": "outfit-body-2"
+        },
+        {
+          "rarity": 59,
+          "price": 77,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S17_L07",
+              "layer": 7,
+              "folder": "outfit-body"
+            },
+            {
+              "id": "S17_L04",
+              "layer": 4,
+              "folder": "outfit-left-hand"
+            },
+            {
+              "id": "S17_L11",
+              "layer": 11,
+              "folder": "outfit-right-hand"
+            }
+          ],
+          "id": "outfit-body-3"
+        },
+        {
+          "rarity": 36,
+          "price": 78,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S19_L07",
+              "layer": 7,
+              "folder": "outfit-body"
+            },
+            {
+              "id": "S19_L04",
+              "layer": 4,
+              "folder": "outfit-left-hand"
+            },
+            {
+              "id": "S19_L11",
+              "layer": 11,
+              "folder": "outfit-right-hand"
+            }
+          ],
+          "id": "outfit-body-4"
+        },
+        {
+          "rarity": 45,
+          "price": 10,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S27_L07",
+              "layer": 7,
+              "folder": "outfit-body"
+            },
+            {
+              "id": "S27_L04",
+              "layer": 4,
+              "folder": "outfit-left-hand"
+            },
+            {
+              "id": "S27_L11",
+              "layer": 11,
+              "folder": "outfit-right-hand"
+            }
+          ],
+          "id": "outfit-body-5"
+        },
+        {
+          "rarity": 62,
+          "price": 24,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S52_L07",
+              "layer": 7,
+              "folder": "outfit-body"
+            },
+            {
+              "id": "S52_L04",
+              "layer": 4,
+              "folder": "outfit-left-hand"
+            },
+            {
+              "id": "S52_L11",
+              "layer": 11,
+              "folder": "outfit-right-hand"
+            }
+          ],
+          "id": "outfit-body-6"
+        },
+        {
+          "rarity": 31,
+          "price": 1,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S69_L07",
+              "layer": 7,
+              "folder": "outfit-body"
+            },
+            {
+              "id": "S69_L04",
+              "layer": 4,
+              "folder": "outfit-left-hand"
+            },
+            {
+              "id": "S69_L11",
+              "layer": 11,
+              "folder": "outfit-right-hand"
+            }
+          ],
+          "id": "outfit-body-7"
+        },
+        {
+          "rarity": 52,
+          "price": 73,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S74_L07",
+              "layer": 7,
+              "folder": "outfit-body"
+            },
+            {
+              "id": "S74_L04",
+              "layer": 4,
+              "folder": "outfit-left-hand"
+            },
+            {
+              "id": "S74_L11",
+              "layer": 11,
+              "folder": "outfit-right-hand"
+            }
+          ],
+          "id": "outfit-body-8"
+        },
+        {
+          "rarity": 96,
+          "price": 13,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S91_L07",
+              "layer": 7,
+              "folder": "outfit-body"
+            },
+            {
+              "id": "S91_L04",
+              "layer": 4,
+              "folder": "outfit-left-hand"
+            },
+            {
+              "id": "S91_L11",
+              "layer": 11,
+              "folder": "outfit-right-hand"
+            }
+          ],
+          "id": "outfit-body-9"
+        }
+      ]
+    },
+    {
+      "category": "item-back",
+      "label": "Back",
+      "img": "/categories/back.png",
+      "items": [
+        {
+          "rarity": 24,
+          "price": 46,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S01_L02",
+              "layer": 2,
+              "folder": "item-back"
+            }
+          ],
+          "id": "item-back-0"
+        },
+        {
+          "rarity": 53,
+          "price": 78,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S02_L02",
+              "layer": 2,
+              "folder": "item-back"
+            }
+          ],
+          "id": "item-back-1"
+        },
+        {
+          "rarity": 80,
+          "price": 60,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S05_L02",
+              "layer": 2,
+              "folder": "item-back"
+            }
+          ],
+          "id": "item-back-2"
+        },
+        {
+          "rarity": 67,
+          "price": 75,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S09_L02",
+              "layer": 2,
+              "folder": "item-back"
+            }
+          ],
+          "id": "item-back-3"
+        },
+        {
+          "rarity": 31,
+          "price": 61,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S13_L02",
+              "layer": 2,
+              "folder": "item-back"
+            }
+          ],
+          "id": "item-back-4"
+        },
+        {
+          "rarity": 9,
+          "price": 19,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S38_L02",
+              "layer": 2,
+              "folder": "item-back"
+            }
+          ],
+          "id": "item-back-5"
+        },
+        {
+          "rarity": 65,
+          "price": 40,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S40_L02",
+              "layer": 2,
+              "folder": "item-back"
+            }
+          ],
+          "id": "item-back-6"
+        },
+        {
+          "rarity": 51,
+          "price": 73,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S46_L02",
+              "layer": 2,
+              "folder": "item-back"
+            }
+          ],
+          "id": "item-back-7"
+        }
+      ]
+    },
+    {
+      "category": "item-over-right-hand",
+      "label": "Over right fin",
+      "img": "/categories/right-hand-accessory.png",
+      "items": [
+        {
+          "rarity": 84,
+          "price": 15,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S01_L12",
+              "layer": 12,
+              "folder": "item-over-right-hand"
+            }
+          ],
+          "id": "item-over-right-hand-0"
+        },
+        {
+          "rarity": 95,
+          "price": 90,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S06_L12",
+              "layer": 12,
+              "folder": "item-over-right-hand"
+            }
+          ],
+          "id": "item-over-right-hand-1"
+        },
+        {
+          "rarity": 49,
+          "price": 61,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S08_L12",
+              "layer": 12,
+              "folder": "item-over-right-hand"
+            }
+          ],
+          "id": "item-over-right-hand-2"
+        },
+        {
+          "rarity": 66,
+          "price": 22,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S09_L12",
+              "layer": 12,
+              "folder": "item-over-right-hand"
+            }
+          ],
+          "id": "item-over-right-hand-3"
+        },
+        {
+          "rarity": 7,
+          "price": 53,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S12_L12",
+              "layer": 12,
+              "folder": "item-over-right-hand"
+            }
+          ],
+          "id": "item-over-right-hand-4"
+        },
+        {
+          "rarity": 64,
+          "price": 46,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S18_L12",
+              "layer": 12,
+              "folder": "item-over-right-hand"
+            }
+          ],
+          "id": "item-over-right-hand-5"
+        },
+        {
+          "rarity": 31,
+          "price": 2,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S20_L12",
+              "layer": 12,
+              "folder": "item-over-right-hand"
+            }
+          ],
+          "id": "item-over-right-hand-6"
+        },
+        {
+          "rarity": 85,
+          "price": 11,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S27_L12",
+              "layer": 12,
+              "folder": "item-over-right-hand"
+            }
+          ],
+          "id": "item-over-right-hand-7"
+        }
+      ]
+    },
+    {
+      "category": "item-under-right-hand",
+      "label": "Under right fin",
+      "img": "/categories/right-hand.png",
+      "items": [
+        {
+          "rarity": 79,
+          "price": 84,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S01_L09",
+              "layer": 9,
+              "folder": "item-under-right-hand"
+            }
+          ],
+          "id": "item-under-right-hand-0"
+        },
+        {
+          "rarity": 85,
+          "price": 68,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S02_L09",
+              "layer": 9,
+              "folder": "item-under-right-hand"
+            }
+          ],
+          "id": "item-under-right-hand-1"
+        },
+        {
+          "rarity": 95,
+          "price": 82,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S04_L09",
+              "layer": 9,
+              "folder": "item-under-right-hand"
+            }
+          ],
+          "id": "item-under-right-hand-2"
+        },
+        {
+          "rarity": 98,
+          "price": 54,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S10_L09",
+              "layer": 9,
+              "folder": "item-under-right-hand"
+            }
+          ],
+          "id": "item-under-right-hand-3"
+        },
+        {
+          "rarity": 39,
+          "price": 6,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S16_L09",
+              "layer": 9,
+              "folder": "item-under-right-hand"
+            }
+          ],
+          "id": "item-under-right-hand-4"
+        },
+        {
+          "rarity": 72,
+          "price": 50,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S24_L09",
+              "layer": 9,
+              "folder": "item-under-right-hand"
+            }
+          ],
+          "id": "item-under-right-hand-5"
+        },
+        {
+          "rarity": 10,
+          "price": 13,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S29_L09",
+              "layer": 9,
+              "folder": "item-under-right-hand"
+            }
+          ],
+          "id": "item-under-right-hand-6"
+        },
+        {
+          "rarity": 44,
+          "price": 31,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S43_L09",
+              "layer": 9,
+              "folder": "item-under-right-hand"
+            }
+          ],
+          "id": "item-under-right-hand-7"
+        },
+        {
+          "rarity": 49,
+          "price": 5,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S52_L09",
+              "layer": 9,
+              "folder": "item-under-right-hand"
+            }
+          ],
+          "id": "item-under-right-hand-8"
+        },
+        {
+          "rarity": 92,
+          "price": 58,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S53_L09",
+              "layer": 9,
+              "folder": "item-under-right-hand"
+            }
+          ],
+          "id": "item-under-right-hand-9"
+        }
+      ]
+    },
+    {
+      "category": "item-left-hand",
+      "label": "Left fin",
+      "img": "/categories/left-hand.png",
+      "items": [
+        {
+          "rarity": 75,
+          "price": 37,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S01_L05",
+              "layer": 5,
+              "folder": "item-left-hand"
+            }
+          ],
+          "id": "item-left-hand-0"
+        },
+        {
+          "rarity": 3,
+          "price": 21,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S05_L05",
+              "layer": 5,
+              "folder": "item-left-hand"
+            }
+          ],
+          "id": "item-left-hand-1"
+        },
+        {
+          "rarity": 36,
+          "price": 43,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S08_L05",
+              "layer": 5,
+              "folder": "item-left-hand"
+            }
+          ],
+          "id": "item-left-hand-2"
+        },
+        {
+          "rarity": 43,
+          "price": 72,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S11_L05",
+              "layer": 5,
+              "folder": "item-left-hand"
+            }
+          ],
+          "id": "item-left-hand-3"
+        },
+        {
+          "rarity": 84,
+          "price": 81,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S13_L05",
+              "layer": 5,
+              "folder": "item-left-hand"
+            }
+          ],
+          "id": "item-left-hand-4"
+        },
+        {
+          "rarity": 32,
+          "price": 16,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S16_L05",
+              "layer": 5,
+              "folder": "item-left-hand"
+            }
+          ],
+          "id": "item-left-hand-5"
+        },
+        {
+          "rarity": 75,
+          "price": 60,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S18_L05",
+              "layer": 5,
+              "folder": "item-left-hand"
+            }
+          ],
+          "id": "item-left-hand-6"
+        },
+        {
+          "rarity": 36,
+          "price": 70,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S29_L05",
+              "layer": 5,
+              "folder": "item-left-hand"
+            }
+          ],
+          "id": "item-left-hand-7"
+        },
+        {
+          "rarity": 12,
+          "price": 4,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S38_L05",
+              "layer": 5,
+              "folder": "item-left-hand"
+            }
+          ],
+          "id": "item-left-hand-8"
+        },
+        {
+          "rarity": 95,
+          "price": 51,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S48_L05",
+              "layer": 5,
+              "folder": "item-left-hand"
+            }
+          ],
+          "id": "item-left-hand-9"
+        }
+      ]
+    },
+    {
+      "category": "background",
+      "label": "Background",
+      "img": null,
+      "items": [
+        {
+          "rarity": 5,
+          "price": 64,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S01_L01",
+              "layer": 1,
+              "folder": "background"
+            },
+            {
+              "id": "S01_L17",
+              "layer": 17,
+              "folder": "foreground"
+            }
+          ],
+          "id": "background-0"
+        },
+        {
+          "rarity": 4,
+          "price": 84,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S03_L01",
+              "layer": 1,
+              "folder": "background"
+            },
+            {
+              "id": "S03_L17",
+              "layer": 17,
+              "folder": "foreground"
+            }
+          ],
+          "id": "background-1"
+        },
+        {
+          "rarity": 62,
+          "price": 16,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S07_L01",
+              "layer": 1,
+              "folder": "background"
+            },
+            {
+              "id": "S07_L17",
+              "layer": 17,
+              "folder": "foreground"
+            }
+          ],
+          "id": "background-2"
+        },
+        {
+          "rarity": 17,
+          "price": 9,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S09_L01",
+              "layer": 1,
+              "folder": "background"
+            },
+            {
+              "id": "S09_L17",
+              "layer": 17,
+              "folder": "foreground"
+            }
+          ],
+          "id": "background-3"
+        },
+        {
+          "rarity": 18,
+          "price": 93,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S13_L01",
+              "layer": 1,
+              "folder": "background"
+            },
+            {
+              "id": "S13_L17",
+              "layer": 17,
+              "folder": "foreground"
+            }
+          ],
+          "id": "background-4"
+        },
+        {
+          "rarity": 84,
+          "price": 45,
+          "symbol": "USDT",
+          "images": [
+            {
+              "id": "S15_L01",
+              "layer": 1,
+              "folder": "background"
+            },
+            {
+              "id": "S15_L17",
+              "layer": 17,
+              "folder": "foreground"
+            }
+          ],
+          "id": "background-5"
+        }
+      ]
+    }
+  ]
+}

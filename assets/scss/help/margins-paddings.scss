@@ -1,0 +1,128 @@
+/**!
+ * MARGINS AND PADDINGS
+ * Названия селекторов задаются по desktop версии
+ */
+.m-a {
+  margin: auto;
+}
+
+.m-l-a {
+  margin-left: auto;
+}
+
+.m-r-a {
+  margin-right: auto;
+}
+
+.m-t-a {
+  margin-top: auto;
+}
+
+$indents: (
+  // desktop : mobile
+  0px: 0px,
+  5px: 5px,
+  10px: 10px,
+  20px: 20px,
+  30px: 30px,
+  40px: 40px,
+  45px: 45px,
+  50px: 50px,
+  60px: 60px,
+  70px: 70px,
+  80px: 80px,
+  90px: 90px,
+  100px: 100px,
+);
+
+/** MARGINS **********************
+.m-t-20 { margin-top: 20px; }
+**********************************/
+.m {
+  @each $indent-desktop, $indent-mobile in $indents {
+    &-#{strip-unit($indent-desktop)} {
+      margin: $indent-mobile;
+
+      @include respond-before('md') {
+        margin: $indent-desktop;
+      }
+    }
+
+    &-b-#{strip-unit($indent-desktop)} {
+      margin-bottom: $indent-mobile;
+
+      @include respond-before('md') {
+        margin-bottom: $indent-desktop;
+      }
+    }
+
+    &-t-#{strip-unit($indent-desktop)} {
+      margin-top: $indent-mobile;
+
+      @include respond-before('md') {
+        margin-top: $indent-desktop;
+      }
+    }
+
+    &-l-#{strip-unit($indent-desktop)} {
+      margin-left: $indent-mobile;
+
+      @include respond-before('md') {
+        margin-left: $indent-desktop;
+      }
+    }
+
+    &-r-#{strip-unit($indent-desktop)} {
+      margin-right: $indent-mobile;
+
+      @include respond-before('md') {
+        margin-right: $indent-desktop;
+      }
+    }
+  }
+}
+
+///** PADDINGS **********************
+//.p-t-20 { padding-top: 20px; }
+//**********************************/
+//.p {
+//  @each $indent-desktop, $indent-mobile in $indents {
+//    &-#{strip-unit($indent-desktop)} {
+//      padding: px_to_vw(mobile, $indent-mobile);
+//
+//      @include respond-before('md') {
+//        padding: px_to_vw(desktop, $indent-desktop);
+//      }
+//    }
+//
+//    &-b-#{strip-unit($indent-desktop)} {
+//      padding-bottom: px_to_vw(mobile, $indent-mobile);
+//
+//      @include respond-before('md') {
+//        padding-bottom: px_to_vw(desktop, $indent-desktop);
+//      }
+//    }
+//
+//    &-t-#{strip-unit($indent-desktop)} {
+//      padding-top: px_to_vw(mobile, $indent-mobile);
+//
+//      @include respond-before('md') {
+//        padding-top: px_to_vw(desktop, $indent-desktop);
+//      }
+//    }
+//    &-l-#{strip-unit($indent-desktop)} {
+//      padding-left: px_to_vw(mobile, $indent-mobile);
+//
+//      @include respond-before('md') {
+//        padding-left: px_to_vw(desktop, $indent-desktop);
+//      }
+//    }
+//    &-r-#{strip-unit($indent-desktop)} {
+//      padding-right: px_to_vw(mobile, $indent-mobile);
+//
+//      @include respond-before('md') {
+//        padding-right: px_to_vw(desktop, $indent-desktop);
+//      }
+//    }
+//  }
+//}

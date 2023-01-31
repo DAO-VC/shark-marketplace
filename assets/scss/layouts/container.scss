@@ -1,0 +1,24 @@
+@import "../variables.scss";
+@import "../mixins/mixins.scss";
+
+// Общие стили для экранов и общих вложенных элементов
+.container {
+  width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+
+  @include respond-before("md") {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  // @include respond-before("xl") {
+
+  // }
+  @include respond-before("lg") {
+    max-width: 1280px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}

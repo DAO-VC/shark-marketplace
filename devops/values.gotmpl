@@ -1,0 +1,67 @@
+imagePullSecrets:
+  - name: gitlab-pullsecret
+
+env: {}
+
+envSecret: {}
+
+components:
+  - name: front
+    replicas: 2
+    ports:
+      - port: 8080
+        name: http
+    probes:
+      readiness:
+        path: /
+        port: 8080
+        initialDelaySeconds: 10
+        periodSeconds: 10
+        timeoutSeconds: 5
+        successThreshold: 1
+        failureThreshold: 6
+      liveness:
+        path: /
+        port: 8080
+        initialDelaySeconds: 10
+        periodSeconds: 10
+        timeoutSeconds: 5
+        successThreshold: 1
+        failureThreshold: 6
+    resources:
+      limits:
+        cpu: "0.5"
+        memory: 200Mi
+      requests:
+        cpu: "0.1"
+        memory: 100Mi
+    ingress:
+      tls:
+        hosts:
+          - {{ .Environment.Values.ingressHostname }}
+      rules:
+        - hostname: {{ .Environment.Values.ingressHostname }}
+          paths:
+            - path: "/"
+        - hostname: demomarket.sharkrace.com
+          paths:
+            - path: "/"
+      annotations:
+        nginx.ingress.kubernetes.io/server-snippet: |
+          if ($host = 'demomarket.sharkrace.com') {
+            return 301 $scheme://{{ .Environment.Values.ingressHostname }}$request_uri;
+          }
+    affinity:
+      podAntiAffinity:
+        requiredDuringSchedulingIgnoredDuringExecution:
+        - labelSelector:
+            matchExpressions:
+              - key: app.kubernetes.io/name
+                operator: In
+                values:
+                  - marketplace
+              - key: app.kubernetes.io/component
+                operator: In
+                values:
+                  - front
+          topologyKey: "kubernetes.io/hostname"

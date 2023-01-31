@@ -1,0 +1,184 @@
+html, body {
+  min-height: 100%;
+  height: auto;
+
+  @media screen and (min-height: 800px) and (min-width: 768px) {
+    height: 100%;
+  }
+}
+body {
+  overflow-x: hidden;
+  //background-image: linear-gradient(175deg, rgba(10,30,102,1) 1%, rgba(23,83,173,1) 12%, rgba(23,83,173,1) 12%, rgba(41,95,194,1) 23%, rgba(62,90,192,1) 28%, rgba(81,79,185,1) 39%, rgba(152,37,158,1) 58%, rgba(109,23,111,1) 75%, rgba(77,13,77,1) 98%);
+  background: url("~/assets/img/bg.jpg") no-repeat 100% 100% fixed;
+  background-size: cover;
+}
+
+/* Фон сайта */
+#__nuxt {
+  //background: #2e50e4; // linear-gradient(180deg, #2E50E4 20%, #132055 100%);
+}
+#__layout {
+  @include respond-before("md") {
+    //background: url("~/assets/img/bg-2.png") no-repeat 100% 100%;
+    //background-size: contain;
+  }
+}
+
+#__nuxt,
+#__layout,
+#__layout > div {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+
+  //@include respond-before("md") {
+  //  height: 100%;
+  //}
+}
+
+.site-content {
+  $siteHeaderHeight: 0px;
+  $offset: 70px;
+  padding-top: $siteHeaderHeight + $offset;
+  padding-bottom: 74px;
+  position: relative;
+  z-index: 3;
+  flex: 1 0 auto;
+
+  @include respond-to("md") {
+    //background: url("~/assets/img/bg-2.png") no-repeat right 0 bot fixed;
+    //background-size: contain;
+  }
+
+  @include respond-before("md") {
+    padding-top: $siteHeaderHeight + $offset;
+  }
+  @include respond-before("lg") {
+    padding-top: $siteHeaderHeight + $offset;
+  }
+
+  @include respond-before("md") {
+    @media (min-height: 390px) { // для невысоких экранов desktop
+      padding-top: 40px;
+    }
+  }
+  @include respond-before("lg") {
+    @media (min-height: 600px) { // для невысоких экранов desktop
+      padding-top: 40px;
+    }
+  }
+  @include respond-before("xl") {
+    @media (max-height: 700px) { // для невысоких экранов desktop
+      padding-top: 40px;
+    }
+  }
+}
+
+h1, .h1 {
+  font-size: 30px;
+  line-height: 1.125em;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  text-transform: uppercase;
+
+  @include respond-before("sm") {
+    font-size: 36px;
+  }
+  @include respond-before("md") {
+    font-size: 64px;
+  }
+}
+
+h2, .h2 {
+  font-size: 30px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.125em;
+
+  @include respond-before("md") {
+    font-size: 36px;
+  }
+}
+
+/* Модальное окно */
+.modal-header-icon {
+  margin-top: -60px;
+  text-align: center;
+
+  img {
+    @include respond-to("sm") {
+      max-width: 75px;
+    }
+  }
+}
+
+pre {
+  border-radius: 10px;
+  padding: 10px;
+  background: #0b1956;
+  text-align: left;
+  overflow-x: auto;
+}
+
+
+.modal-title {
+  color: #0C0D22;
+}
+.modal-body {
+  .desc {
+    text-align: center;
+    color: #6D6E7A;
+  }
+}
+
+
+.site-header-text {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+
+  &--mobile {
+    font-size: 24px;
+    margin-top: -40px;
+    margin-bottom: 40px;
+
+    @include respond-before("xs") {
+      font-size: 28px;
+    }
+    @include respond-before("sm") {
+      font-size: 32px;
+    }
+    @include respond-before("pre-md") {
+      font-size: 34px;
+    }
+    @include respond-before("lg") {
+      display: none;
+    }
+  }
+
+  &--desktop {
+    display: none !important;
+
+    @include respond-before("md") {
+    }
+
+    @include respond-before("lg") {
+      font-size: 24px;
+      flex-flow: column wrap !important;
+      display: flex !important;
+      justify-content: flex-start !important;
+    }
+  }
+
+  span {
+    margin-right: 15px;
+    font-weight: 300;
+    display: inline-block;
+
+    @include respond-before("lg") {
+      font-size: 16px;
+      text-align: left;
+      display: block;
+    }
+  }
+}

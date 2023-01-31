@@ -1,0 +1,136 @@
+<template>
+  <svg
+    id="Layer_1"
+    class="ui-loader"
+    version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    x="0px"
+    y="0px"
+    width="30px"
+    height="30px"
+    viewBox="0 0 30 30"
+    style="enable-background:new 0 0 50 50;"
+    xml:space="preserve"
+  >
+    <rect
+      x="5"
+      y="10"
+      width="4"
+      height="10"
+      :fill="color"
+      opacity="0.2"
+    >
+      <animate
+        attributeName="opacity"
+        attributeType="XML"
+        values="0.2; 1; .2"
+        begin="0s"
+        dur="0.6s"
+        repeatCount="indefinite"
+      />
+      <animate
+        attributeName="height"
+        attributeType="XML"
+        values="10; 20; 10"
+        begin="0s"
+        dur="0.6s"
+        repeatCount="indefinite"
+      />
+      <animate
+        attributeName="y"
+        attributeType="XML"
+        values="10; 5; 10"
+        begin="0s"
+        dur="0.6s"
+        repeatCount="indefinite"
+      />
+    </rect>
+    <rect
+      x="13"
+      y="10"
+      width="4"
+      height="10"
+      :fill="color"
+      opacity="0.2"
+    >
+      <animate
+        attributeName="opacity"
+        attributeType="XML"
+        values="0.2; 1; .2"
+        begin="0.15s"
+        dur="0.6s"
+        repeatCount="indefinite"
+      />
+      <animate
+        attributeName="height"
+        attributeType="XML"
+        values="10; 20; 10"
+        begin="0.15s"
+        dur="0.6s"
+
+        repeatCount="indefinite"
+      />
+      <animate
+        attributeName="y"
+        attributeType="XML"
+        values="10; 5; 10"
+        begin="0.15s"
+        dur="0.6s"
+        repeatCount="indefinite"
+      />
+    </rect>
+    <rect
+      x="21"
+      y="10"
+      width="4"
+      height="10"
+      :fill="color"
+      opacity="0.2"
+    >
+      <animate
+        attributeName="opacity"
+        attributeType="XML"
+        values="0.2; 1; .2"
+        begin="0.3s"
+        dur="0.6s"
+        repeatCount="indefinite"
+      />
+      <animate
+        attributeName="height"
+        attributeType="XML"
+        values="10; 20; 10"
+        begin="0.3s"
+        dur="0.6s"
+        repeatCount="indefinite"
+      />
+      <animate
+        attributeName="y"
+        attributeType="XML"
+        values="10; 5; 10"
+        begin="0.3s"
+        dur="0.6s"
+        repeatCount="indefinite"
+      />
+    </rect>
+  </svg>
+</template>
+
+<script>
+export default {
+  name: "UiLoader",
+  props: {
+    color: {
+      type: String,
+      default: "#fff"
+    }
+  }
+};
+</script>
+
+<style scoped lang="scss">
+svg {
+  display: inline-block;
+  vertical-align: middle;
+}
+</style>
