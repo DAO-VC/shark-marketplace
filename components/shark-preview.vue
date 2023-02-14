@@ -46,7 +46,8 @@ export default {
       const extension = this.isVideoFormat
         ? "mp4"
         : "jpg";
-      return `${process.env.API_BASE_URL}/api/nft/shark/image/${fileName}.${extension}`;
+        // todo: remove hardcode api
+      return `https://market-api.sharkrace.com/api/nft/shark/image/${fileName}.${extension}`;
     }
   },
   methods: {
