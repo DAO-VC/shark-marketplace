@@ -46,7 +46,7 @@ export default {
       const extension = this.isVideoFormat
         ? "mp4"
         : "jpg";
-      return `/api/nft/shark/image/${fileName}.${extension}`;
+      return `${process.env.API_BASE_URL}/api/nft/shark/image/${fileName}.${extension}`;
     }
   },
   methods: {
