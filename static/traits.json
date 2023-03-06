@@ -12,7 +12,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S84_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S84_L15.png",
           "layer": 15
         }
       ]
@@ -31,7 +31,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S87_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S87_L15.png",
           "layer": 15
         }
       ]
@@ -50,7 +50,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S88_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S88_L15.png",
           "layer": 15
         }
       ]
@@ -69,7 +69,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S89_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S89_L15.png",
           "layer": 15
         }
       ]
@@ -88,7 +88,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S108_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S108_L15.png",
           "layer": 15
         }
       ]
@@ -107,7 +107,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S30_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S30_L16.png",
           "layer": 16
         }
       ]
@@ -126,7 +126,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S36_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S36_L16.png",
           "layer": 16
         }
       ]
@@ -145,7 +145,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S16_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S16_L14.png",
           "layer": 14
         }
       ]
@@ -164,7 +164,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S18_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S18_L14.png",
           "layer": 14
         }
       ]
@@ -183,7 +183,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S126_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S126_L14.png",
           "layer": 14
         }
       ]
@@ -202,7 +202,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S127_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S127_L14.png",
           "layer": 14
         }
       ]
@@ -221,7 +221,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S128_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S128_L14.png",
           "layer": 14
         }
       ]
@@ -240,7 +240,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S37_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S37_L16.png",
           "layer": 16
         }
       ]
@@ -259,7 +259,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S38_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S38_L16.png",
           "layer": 16
         }
       ]
@@ -278,7 +278,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S43_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S43_L16.png",
           "layer": 16
         }
       ]
@@ -297,7 +297,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S45_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S45_L16.png",
           "layer": 16
         }
       ]
@@ -316,7 +316,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S47_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S47_L16.png",
           "layer": 16
         }
       ]
@@ -335,7 +335,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S48_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S48_L16.png",
           "layer": 16
         }
       ]
@@ -354,7 +354,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S49_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S49_L16.png",
           "layer": 16
         }
       ]
@@ -373,7 +373,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S51_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S51_L16.png",
           "layer": 16
         }
       ]
@@ -392,7 +392,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S54_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S54_L16.png",
           "layer": 16
         }
       ]
@@ -411,7 +411,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S64_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S64_L16.png",
           "layer": 16
         }
       ]
@@ -430,7 +430,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S65_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S65_L16.png",
           "layer": 16
         }
       ]
@@ -449,7 +449,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S68_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S68_L16.png",
           "layer": 16
         }
       ]
@@ -468,7 +468,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S69_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S69_L16.png",
           "layer": 16
         }
       ]
@@ -487,7 +487,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S70_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S70_L16.png",
           "layer": 16
         }
       ]
@@ -506,7 +506,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S72_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S72_L16.png",
           "layer": 16
         }
       ]
@@ -525,7 +525,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S76_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S76_L16.png",
           "layer": 16
         }
       ]
@@ -544,7 +544,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S80_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S80_L16.png",
           "layer": 16
         }
       ]
@@ -563,7 +563,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S81_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S81_L16.png",
           "layer": 16
         }
       ]
@@ -582,7 +582,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S05_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S05_L15.png",
           "layer": 15
         }
       ]
@@ -601,7 +601,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S07_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S07_L15.png",
           "layer": 15
         }
       ]
@@ -621,7 +621,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S08_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S08_L15.png",
           "layer": 15
         }
       ]
@@ -641,7 +641,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S09_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S09_L15.png",
           "layer": 15
         }
       ]
@@ -661,7 +661,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S10_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S10_L15.png",
           "layer": 15
         }
       ]
@@ -681,7 +681,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S11_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S11_L15.png",
           "layer": 15
         }
       ]
@@ -701,7 +701,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S13_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S13_L15.png",
           "layer": 15
         }
       ]
@@ -721,7 +721,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S14_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S14_L15.png",
           "layer": 15
         }
       ]
@@ -741,7 +741,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S16_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S16_L15.png",
           "layer": 15
         }
       ]
@@ -761,7 +761,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S17_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S17_L15.png",
           "layer": 15
         }
       ]
@@ -781,7 +781,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S02_L08.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S02_L08.png",
           "layer": 8
         }
       ]
@@ -800,7 +800,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S25_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S25_L14.png",
           "layer": 14
         }
       ]
@@ -819,7 +819,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S26_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S26_L14.png",
           "layer": 14
         }
       ]
@@ -838,7 +838,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S27_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S27_L14.png",
           "layer": 14
         }
       ]
@@ -857,7 +857,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S28_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S28_L14.png",
           "layer": 14
         }
       ]
@@ -876,7 +876,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S30_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S30_L14.png",
           "layer": 14
         }
       ]
@@ -895,7 +895,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S06_L12.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S06_L12.png",
           "layer": 12
         }
       ]
@@ -914,7 +914,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S31_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S31_L14.png",
           "layer": 14
         }
       ]
@@ -933,7 +933,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S122_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S122_L14.png",
           "layer": 14
         }
       ]
@@ -952,7 +952,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S123_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S123_L14.png",
           "layer": 14
         }
       ]
@@ -971,7 +971,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S124_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S124_L14.png",
           "layer": 14
         }
       ]
@@ -990,7 +990,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S07_L12.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S07_L12.png",
           "layer": 12
         }
       ]
@@ -1009,7 +1009,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S08_L12.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S08_L12.png",
           "layer": 12
         }
       ]
@@ -1028,7 +1028,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S09_L12.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S09_L12.png",
           "layer": 12
         }
       ]
@@ -1047,7 +1047,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S125_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S125_L14.png",
           "layer": 14
         }
       ]
@@ -1066,7 +1066,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S10_L12.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S10_L12.png",
           "layer": 12
         }
       ]
@@ -1085,7 +1085,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S11_L12.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S11_L12.png",
           "layer": 12
         }
       ]
@@ -1104,7 +1104,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S12_L12.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S12_L12.png",
           "layer": 12
         }
       ]
@@ -1123,7 +1123,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S14_L12.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S14_L12.png",
           "layer": 12
         }
       ]
@@ -1142,7 +1142,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S16_L12.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S16_L12.png",
           "layer": 12
         }
       ]
@@ -1161,7 +1161,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S17_L12.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S17_L12.png",
           "layer": 12
         }
       ]
@@ -1180,7 +1180,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S18_L12.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S18_L12.png",
           "layer": 12
         }
       ]
@@ -1199,7 +1199,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S19_L12.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S19_L12.png",
           "layer": 12
         }
       ]
@@ -1218,7 +1218,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S20_L12.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S20_L12.png",
           "layer": 12
         }
       ]
@@ -1237,7 +1237,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S107_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S107_L14.png",
           "layer": 14
         }
       ]
@@ -1256,7 +1256,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S118_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S118_L14.png",
           "layer": 14
         }
       ]
@@ -1275,7 +1275,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S121_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S121_L14.png",
           "layer": 14
         }
       ]
@@ -1294,7 +1294,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S55_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S55_L16.png",
           "layer": 16
         }
       ]
@@ -1313,7 +1313,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S56_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S56_L16.png",
           "layer": 16
         }
       ]
@@ -1332,7 +1332,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S59_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S59_L16.png",
           "layer": 16
         }
       ]
@@ -1351,7 +1351,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S75_L08.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S75_L08.png",
           "layer": 8
         }
       ]
@@ -1370,7 +1370,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S77_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S77_L14.png",
           "layer": 14
         }
       ]
@@ -1389,7 +1389,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S79_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S79_L14.png",
           "layer": 14
         }
       ]
@@ -1408,7 +1408,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S80_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S80_L14.png",
           "layer": 14
         }
       ]
@@ -1427,7 +1427,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S82_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S82_L14.png",
           "layer": 14
         }
       ]
@@ -1446,7 +1446,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S83_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S83_L14.png",
           "layer": 14
         }
       ]
@@ -1465,7 +1465,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S84_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S84_L14.png",
           "layer": 14
         }
       ]
@@ -1484,7 +1484,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S87_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S87_L14.png",
           "layer": 14
         }
       ]
@@ -1503,7 +1503,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S88_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S88_L14.png",
           "layer": 14
         }
       ]
@@ -1522,7 +1522,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S89_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S89_L14.png",
           "layer": 14
         }
       ]
@@ -1541,7 +1541,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S90_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S90_L14.png",
           "layer": 14
         }
       ]
@@ -1560,7 +1560,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S91_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S91_L14.png",
           "layer": 14
         }
       ]
@@ -1579,7 +1579,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S92_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S92_L14.png",
           "layer": 14
         }
       ]
@@ -1598,7 +1598,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S93_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S93_L14.png",
           "layer": 14
         }
       ]
@@ -1617,7 +1617,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S94_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S94_L14.png",
           "layer": 14
         }
       ]
@@ -1636,7 +1636,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S96_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S96_L14.png",
           "layer": 14
         }
       ]
@@ -1655,7 +1655,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S97_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S97_L14.png",
           "layer": 14
         }
       ]
@@ -1674,7 +1674,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S99_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S99_L14.png",
           "layer": 14
         }
       ]
@@ -1693,7 +1693,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S100_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S100_L14.png",
           "layer": 14
         }
       ]
@@ -1712,7 +1712,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S102_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S102_L14.png",
           "layer": 14
         }
       ]
@@ -1731,7 +1731,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S103_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S103_L14.png",
           "layer": 14
         }
       ]
@@ -1750,7 +1750,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S104_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S104_L14.png",
           "layer": 14
         }
       ]
@@ -1769,7 +1769,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S105_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S105_L14.png",
           "layer": 14
         }
       ]
@@ -1788,7 +1788,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S106_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S106_L14.png",
           "layer": 14
         }
       ]
@@ -1807,7 +1807,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S108_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S108_L14.png",
           "layer": 14
         }
       ]
@@ -1826,7 +1826,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S109_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S109_L14.png",
           "layer": 14
         }
       ]
@@ -1845,7 +1845,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S110_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S110_L14.png",
           "layer": 14
         }
       ]
@@ -1864,7 +1864,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S115_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S115_L14.png",
           "layer": 14
         }
       ]
@@ -1883,7 +1883,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S25_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S25_L16.png",
           "layer": 16
         }
       ]
@@ -1902,7 +1902,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S27_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S27_L16.png",
           "layer": 16
         }
       ]
@@ -1921,7 +1921,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S77_L08.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S77_L08.png",
           "layer": 8
         }
       ]
@@ -1940,7 +1940,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S79_L08.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S79_L08.png",
           "layer": 8
         }
       ]
@@ -1959,7 +1959,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S81_L08.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S81_L08.png",
           "layer": 8
         }
       ]
@@ -1978,7 +1978,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S83_L08.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S83_L08.png",
           "layer": 8
         }
       ]
@@ -1997,7 +1997,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S84_L08.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S84_L08.png",
           "layer": 8
         }
       ]
@@ -2016,7 +2016,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S36_L08.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S36_L08.png",
           "layer": 8
         }
       ]
@@ -2035,7 +2035,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S37_L08.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S37_L08.png",
           "layer": 8
         }
       ]
@@ -2054,7 +2054,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S39_L08.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S39_L08.png",
           "layer": 8
         }
       ]
@@ -2073,7 +2073,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S44_L08.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S44_L08.png",
           "layer": 8
         }
       ]
@@ -2092,7 +2092,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S48_L08.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S48_L08.png",
           "layer": 8
         }
       ]
@@ -2111,7 +2111,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S52_L08.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S52_L08.png",
           "layer": 8
         }
       ]
@@ -2130,7 +2130,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S53_L08.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S53_L08.png",
           "layer": 8
         }
       ]
@@ -2149,7 +2149,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S55_L08.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S55_L08.png",
           "layer": 8
         }
       ]
@@ -2168,7 +2168,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S57_L08.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S57_L08.png",
           "layer": 8
         }
       ]
@@ -2187,7 +2187,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S61_L08.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S61_L08.png",
           "layer": 8
         }
       ]
@@ -2206,7 +2206,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S63_L08.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S63_L08.png",
           "layer": 8
         }
       ]
@@ -2225,7 +2225,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S64_L08.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S64_L08.png",
           "layer": 8
         }
       ]
@@ -2244,7 +2244,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S66_L08.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S66_L08.png",
           "layer": 8
         }
       ]
@@ -2263,7 +2263,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S68_L08.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S68_L08.png",
           "layer": 8
         }
       ]
@@ -2282,7 +2282,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S71_L08.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S71_L08.png",
           "layer": 8
         }
       ]
@@ -2301,7 +2301,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S74_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S74_L15.png",
           "layer": 15
         }
       ]
@@ -2321,7 +2321,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S03_L12.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S03_L12.png",
           "layer": 12
         }
       ]
@@ -2340,7 +2340,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S75_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S75_L15.png",
           "layer": 15
         }
       ]
@@ -2360,7 +2360,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S77_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S77_L15.png",
           "layer": 15
         }
       ]
@@ -2380,7 +2380,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S78_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S78_L15.png",
           "layer": 15
         }
       ]
@@ -2400,7 +2400,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S79_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S79_L15.png",
           "layer": 15
         }
       ]
@@ -2420,7 +2420,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S82_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S82_L15.png",
           "layer": 15
         }
       ]
@@ -2440,7 +2440,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S70_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S70_L15.png",
           "layer": 15
         }
       ]
@@ -2460,15 +2460,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S05_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S05_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S05_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S05_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S05_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S05_L11.png",
           "layer": 11
         }
       ]
@@ -2487,15 +2487,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S07_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S07_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S07_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S07_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S07_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S07_L11.png",
           "layer": 11
         }
       ]
@@ -2514,15 +2514,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S08_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S08_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S08_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S08_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S08_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S08_L11.png",
           "layer": 11
         }
       ]
@@ -2541,15 +2541,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S09_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S09_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S09_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S09_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S09_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S09_L11.png",
           "layer": 11
         }
       ]
@@ -2568,15 +2568,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S10_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S10_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S10_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S10_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S10_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S10_L11.png",
           "layer": 11
         }
       ]
@@ -2595,15 +2595,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S11_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S11_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S11_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S11_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S11_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S11_L11.png",
           "layer": 11
         }
       ]
@@ -2622,7 +2622,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S200_L14.webp",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S200_L14.webp",
           "layer": 14
         }
       ]
@@ -2641,7 +2641,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S201_L14.webp",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S201_L14.webp",
           "layer": 14
         }
       ]
@@ -2660,7 +2660,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S202_L14.webp",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S202_L14.webp",
           "layer": 14
         }
       ]
@@ -2679,7 +2679,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S32_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S32_L14.png",
           "layer": 14
         }
       ]
@@ -2698,7 +2698,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S33_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S33_L14.png",
           "layer": 14
         }
       ]
@@ -2717,7 +2717,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S36_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S36_L14.png",
           "layer": 14
         }
       ]
@@ -2736,7 +2736,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S38_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S38_L14.png",
           "layer": 14
         }
       ]
@@ -2755,7 +2755,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S40_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S40_L14.png",
           "layer": 14
         }
       ]
@@ -2774,7 +2774,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S42_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S42_L14.png",
           "layer": 14
         }
       ]
@@ -2793,7 +2793,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S45_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S45_L14.png",
           "layer": 14
         }
       ]
@@ -2812,7 +2812,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S61_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S61_L14.png",
           "layer": 14
         }
       ]
@@ -2831,7 +2831,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S62_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S62_L14.png",
           "layer": 14
         }
       ]
@@ -2850,7 +2850,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S65_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S65_L14.png",
           "layer": 14
         }
       ]
@@ -2869,7 +2869,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S66_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S66_L14.png",
           "layer": 14
         }
       ]
@@ -2888,7 +2888,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S67_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S67_L14.png",
           "layer": 14
         }
       ]
@@ -2907,7 +2907,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S64_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S64_L15.png",
           "layer": 15
         }
       ]
@@ -2927,7 +2927,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S66_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S66_L15.png",
           "layer": 15
         }
       ]
@@ -2947,7 +2947,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S67_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S67_L15.png",
           "layer": 15
         }
       ]
@@ -2967,7 +2967,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S68_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S68_L15.png",
           "layer": 15
         }
       ]
@@ -2987,7 +2987,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S72_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S72_L15.png",
           "layer": 15
         }
       ]
@@ -3007,7 +3007,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S82_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S82_L16.png",
           "layer": 16
         }
       ]
@@ -3026,7 +3026,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S84_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S84_L16.png",
           "layer": 16
         }
       ]
@@ -3045,7 +3045,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S85_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S85_L16.png",
           "layer": 16
         }
       ]
@@ -3064,7 +3064,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S87_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S87_L16.png",
           "layer": 16
         }
       ]
@@ -3083,7 +3083,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S88_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S88_L16.png",
           "layer": 16
         }
       ]
@@ -3102,7 +3102,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S89_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S89_L16.png",
           "layer": 16
         }
       ]
@@ -3121,7 +3121,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S90_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S90_L16.png",
           "layer": 16
         }
       ]
@@ -3140,7 +3140,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S96_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S96_L16.png",
           "layer": 16
         }
       ]
@@ -3159,7 +3159,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S97_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S97_L16.png",
           "layer": 16
         }
       ]
@@ -3178,7 +3178,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S39_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S39_L15.png",
           "layer": 15
         }
       ]
@@ -3198,15 +3198,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S96_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S96_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S96_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S96_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S96_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S96_L11.png",
           "layer": 11
         }
       ]
@@ -3225,15 +3225,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S98_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S98_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S98_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S98_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S98_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S98_L11.png",
           "layer": 11
         }
       ]
@@ -3252,15 +3252,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S100_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S100_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S100_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S100_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S100_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S100_L11.png",
           "layer": 11
         }
       ]
@@ -3279,15 +3279,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S103_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S103_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S103_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S103_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S103_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S103_L11.png",
           "layer": 11
         }
       ]
@@ -3306,15 +3306,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S104_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S104_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S104_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S104_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S104_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S104_L11.png",
           "layer": 11
         }
       ]
@@ -3333,15 +3333,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S105_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S105_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S105_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S105_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S105_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S105_L11.png",
           "layer": 11
         }
       ]
@@ -3360,15 +3360,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S106_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S106_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S106_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S106_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S106_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S106_L11.png",
           "layer": 11
         }
       ]
@@ -3387,15 +3387,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S107_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S107_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S107_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S107_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S107_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S107_L11.png",
           "layer": 11
         }
       ]
@@ -3414,7 +3414,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S03_L05.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S03_L05.png",
           "layer": 5
         }
       ]
@@ -3433,7 +3433,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S07_L05.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S07_L05.png",
           "layer": 5
         }
       ]
@@ -3452,7 +3452,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S40_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S40_L15.png",
           "layer": 15
         }
       ]
@@ -3472,7 +3472,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S41_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S41_L15.png",
           "layer": 15
         }
       ]
@@ -3492,7 +3492,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S43_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S43_L15.png",
           "layer": 15
         }
       ]
@@ -3512,7 +3512,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S45_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S45_L15.png",
           "layer": 15
         }
       ]
@@ -3532,7 +3532,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S54_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S54_L15.png",
           "layer": 15
         }
       ]
@@ -3552,7 +3552,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S55_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S55_L15.png",
           "layer": 15
         }
       ]
@@ -3572,15 +3572,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S02_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S02_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S02_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S02_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S02_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S02_L11.png",
           "layer": 11
         }
       ]
@@ -3599,15 +3599,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S03_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S03_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S03_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S03_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S03_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S03_L11.png",
           "layer": 11
         }
       ]
@@ -3626,15 +3626,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S63_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S63_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S63_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S63_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S63_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S63_L11.png",
           "layer": 11
         }
       ]
@@ -3653,7 +3653,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S57_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S57_L15.png",
           "layer": 15
         }
       ]
@@ -3673,7 +3673,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S58_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S58_L15.png",
           "layer": 15
         }
       ]
@@ -3693,7 +3693,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S60_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S60_L15.png",
           "layer": 15
         }
       ]
@@ -3713,7 +3713,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S63_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S63_L15.png",
           "layer": 15
         }
       ]
@@ -3733,7 +3733,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S03_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S03_L02.png",
           "layer": 2
         }
       ]
@@ -3752,7 +3752,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S05_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S05_L02.png",
           "layer": 2
         }
       ]
@@ -3771,7 +3771,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S09_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S09_L02.png",
           "layer": 2
         }
       ]
@@ -3790,7 +3790,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S11_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S11_L02.png",
           "layer": 2
         }
       ]
@@ -3809,7 +3809,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S200_L13.webp",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S200_L13.webp",
           "layer": 13
         }
       ]
@@ -3828,7 +3828,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S201_L13.webp",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S201_L13.webp",
           "layer": 13
         }
       ]
@@ -3847,7 +3847,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S202_L13.webp",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S202_L13.webp",
           "layer": 13
         }
       ]
@@ -3866,7 +3866,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S03_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S03_L13.png",
           "layer": 13
         }
       ]
@@ -3885,7 +3885,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S04_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S04_L13.png",
           "layer": 13
         }
       ]
@@ -3904,7 +3904,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S05_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S05_L13.png",
           "layer": 13
         }
       ]
@@ -3923,7 +3923,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S09_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S09_L13.png",
           "layer": 13
         }
       ]
@@ -3942,7 +3942,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S21_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S21_L15.png",
           "layer": 15
         }
       ]
@@ -3962,7 +3962,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S21_L12.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S21_L12.png",
           "layer": 12
         }
       ]
@@ -3981,7 +3981,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S24_L12.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S24_L12.png",
           "layer": 12
         }
       ]
@@ -4000,7 +4000,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S25_L12.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S25_L12.png",
           "layer": 12
         }
       ]
@@ -4019,7 +4019,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S26_L12.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S26_L12.png",
           "layer": 12
         }
       ]
@@ -4038,7 +4038,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S27_L12.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S27_L12.png",
           "layer": 12
         }
       ]
@@ -4057,7 +4057,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S28_L12.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S28_L12.png",
           "layer": 12
         }
       ]
@@ -4076,7 +4076,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S29_L12.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S29_L12.png",
           "layer": 12
         }
       ]
@@ -4095,7 +4095,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S14_L05.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S14_L05.png",
           "layer": 5
         }
       ]
@@ -4114,7 +4114,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S16_L05.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S16_L05.png",
           "layer": 5
         }
       ]
@@ -4133,7 +4133,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S17_L05.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S17_L05.png",
           "layer": 5
         }
       ]
@@ -4152,7 +4152,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S19_L05.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S19_L05.png",
           "layer": 5
         }
       ]
@@ -4171,7 +4171,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S22_L05.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S22_L05.png",
           "layer": 5
         }
       ]
@@ -4190,7 +4190,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S23_L05.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S23_L05.png",
           "layer": 5
         }
       ]
@@ -4209,7 +4209,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S24_L05.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S24_L05.png",
           "layer": 5
         }
       ]
@@ -4228,7 +4228,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S26_L05.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S26_L05.png",
           "layer": 5
         }
       ]
@@ -4247,7 +4247,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S29_L05.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S29_L05.png",
           "layer": 5
         }
       ]
@@ -4266,7 +4266,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S73_L08.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S73_L08.png",
           "layer": 8
         }
       ]
@@ -4285,7 +4285,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S77_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S77_L16.png",
           "layer": 16
         }
       ]
@@ -4304,15 +4304,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S16_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S16_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S16_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S16_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S16_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S16_L11.png",
           "layer": 11
         }
       ]
@@ -4331,15 +4331,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S18_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S18_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S18_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S18_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S18_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S18_L11.png",
           "layer": 11
         }
       ]
@@ -4358,15 +4358,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S20_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S20_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S20_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S20_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S20_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S20_L11.png",
           "layer": 11
         }
       ]
@@ -4385,15 +4385,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S65_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S65_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S65_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S65_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S65_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S65_L11.png",
           "layer": 11
         }
       ]
@@ -4412,15 +4412,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S66_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S66_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S66_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S66_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S66_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S66_L11.png",
           "layer": 11
         }
       ]
@@ -4439,15 +4439,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S68_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S68_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S68_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S68_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S68_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S68_L11.png",
           "layer": 11
         }
       ]
@@ -4466,15 +4466,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S69_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S69_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S69_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S69_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S69_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S69_L11.png",
           "layer": 11
         }
       ]
@@ -4493,15 +4493,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S70_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S70_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S70_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S70_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S70_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S70_L11.png",
           "layer": 11
         }
       ]
@@ -4520,15 +4520,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S73_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S73_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S73_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S73_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S73_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S73_L11.png",
           "layer": 11
         }
       ]
@@ -4547,15 +4547,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S74_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S74_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S74_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S74_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S74_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S74_L11.png",
           "layer": 11
         }
       ]
@@ -4574,15 +4574,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S80_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S80_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S80_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S80_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S80_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S80_L11.png",
           "layer": 11
         }
       ]
@@ -4601,15 +4601,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S94_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S94_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S94_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S94_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S94_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S94_L11.png",
           "layer": 11
         }
       ]
@@ -4628,7 +4628,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S12_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S12_L02.png",
           "layer": 2
         }
       ]
@@ -4647,7 +4647,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S18_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S18_L02.png",
           "layer": 2
         }
       ]
@@ -4666,7 +4666,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S65_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S65_L02.png",
           "layer": 2
         }
       ]
@@ -4685,7 +4685,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S66_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S66_L02.png",
           "layer": 2
         }
       ]
@@ -4704,7 +4704,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S67_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S67_L02.png",
           "layer": 2
         }
       ]
@@ -4723,15 +4723,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S01_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S01_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S01_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S01_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S01_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S01_L11.png",
           "layer": 11
         }
       ]
@@ -4750,7 +4750,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S58_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S58_L16.png",
           "layer": 16
         }
       ]
@@ -4769,7 +4769,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S68_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S68_L14.png",
           "layer": 14
         }
       ]
@@ -4788,7 +4788,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S76_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S76_L14.png",
           "layer": 14
         }
       ]
@@ -4807,7 +4807,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S43_L09.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S43_L09.png",
           "layer": 9
         }
       ]
@@ -4826,7 +4826,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S48_L09.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S48_L09.png",
           "layer": 9
         }
       ]
@@ -4845,7 +4845,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S49_L09.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S49_L09.png",
           "layer": 9
         }
       ]
@@ -4864,7 +4864,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S50_L09.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S50_L09.png",
           "layer": 9
         }
       ]
@@ -4883,15 +4883,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S81_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S81_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S81_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S81_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S81_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S81_L11.png",
           "layer": 11
         }
       ]
@@ -4910,7 +4910,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S55_L09.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S55_L09.png",
           "layer": 9
         }
       ]
@@ -4929,7 +4929,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S01_L12.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S01_L12.png",
           "layer": 12
         }
       ]
@@ -4948,7 +4948,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S02_L12.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S02_L12.png",
           "layer": 12
         }
       ]
@@ -4967,7 +4967,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S15_L12.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S15_L12.png",
           "layer": 12
         }
       ]
@@ -4986,7 +4986,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S201_L16.webp",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S201_L16.webp",
           "layer": 16
         }
       ]
@@ -5005,7 +5005,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S20_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S20_L02.png",
           "layer": 2
         }
       ]
@@ -5024,7 +5024,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S23_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S23_L02.png",
           "layer": 2
         }
       ]
@@ -5043,7 +5043,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S24_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S24_L02.png",
           "layer": 2
         }
       ]
@@ -5062,7 +5062,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S27_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S27_L02.png",
           "layer": 2
         }
       ]
@@ -5081,7 +5081,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S28_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S28_L02.png",
           "layer": 2
         }
       ]
@@ -5100,7 +5100,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S33_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S33_L02.png",
           "layer": 2
         }
       ]
@@ -5119,7 +5119,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S44_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S44_L02.png",
           "layer": 2
         }
       ]
@@ -5138,7 +5138,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S45_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S45_L02.png",
           "layer": 2
         }
       ]
@@ -5157,7 +5157,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S46_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S46_L02.png",
           "layer": 2
         }
       ]
@@ -5176,7 +5176,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S47_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S47_L02.png",
           "layer": 2
         }
       ]
@@ -5195,7 +5195,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S49_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S49_L02.png",
           "layer": 2
         }
       ]
@@ -5214,7 +5214,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S52_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S52_L02.png",
           "layer": 2
         }
       ]
@@ -5233,7 +5233,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S54_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S54_L02.png",
           "layer": 2
         }
       ]
@@ -5252,7 +5252,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S55_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S55_L02.png",
           "layer": 2
         }
       ]
@@ -5271,7 +5271,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S56_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S56_L02.png",
           "layer": 2
         }
       ]
@@ -5290,7 +5290,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S57_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S57_L02.png",
           "layer": 2
         }
       ]
@@ -5309,7 +5309,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S59_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S59_L02.png",
           "layer": 2
         }
       ]
@@ -5328,7 +5328,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S62_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S62_L02.png",
           "layer": 2
         }
       ]
@@ -5347,7 +5347,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S63_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S63_L02.png",
           "layer": 2
         }
       ]
@@ -5366,7 +5366,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S64_L02.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S64_L02.png",
           "layer": 2
         }
       ]
@@ -5385,7 +5385,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S10_L05.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S10_L05.png",
           "layer": 5
         }
       ]
@@ -5404,7 +5404,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S37_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S37_L15.png",
           "layer": 15
         }
       ]
@@ -5424,7 +5424,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S38_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S38_L15.png",
           "layer": 15
         }
       ]
@@ -5444,7 +5444,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S10_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S10_L13.png",
           "layer": 13
         }
       ]
@@ -5463,7 +5463,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S11_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S11_L13.png",
           "layer": 13
         }
       ]
@@ -5482,7 +5482,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S17_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S17_L13.png",
           "layer": 13
         }
       ]
@@ -5501,7 +5501,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S18_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S18_L13.png",
           "layer": 13
         }
       ]
@@ -5520,7 +5520,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S19_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S19_L13.png",
           "layer": 13
         }
       ]
@@ -5539,7 +5539,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S25_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S25_L13.png",
           "layer": 13
         }
       ]
@@ -5558,7 +5558,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S26_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S26_L13.png",
           "layer": 13
         }
       ]
@@ -5577,7 +5577,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S27_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S27_L13.png",
           "layer": 13
         }
       ]
@@ -5596,7 +5596,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S28_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S28_L13.png",
           "layer": 13
         }
       ]
@@ -5615,7 +5615,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S29_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S29_L13.png",
           "layer": 13
         }
       ]
@@ -5634,7 +5634,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S22_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S22_L15.png",
           "layer": 15
         }
       ]
@@ -5654,7 +5654,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S23_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S23_L15.png",
           "layer": 15
         }
       ]
@@ -5674,7 +5674,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S24_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S24_L15.png",
           "layer": 15
         }
       ]
@@ -5694,7 +5694,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S28_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S28_L15.png",
           "layer": 15
         }
       ]
@@ -5714,7 +5714,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S30_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S30_L15.png",
           "layer": 15
         }
       ]
@@ -5734,7 +5734,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S33_L05.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S33_L05.png",
           "layer": 5
         }
       ]
@@ -5753,7 +5753,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S35_L05.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S35_L05.png",
           "layer": 5
         }
       ]
@@ -5772,7 +5772,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S31_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S31_L15.png",
           "layer": 15
         }
       ]
@@ -5792,7 +5792,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S32_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S32_L15.png",
           "layer": 15
         }
       ]
@@ -5812,7 +5812,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S33_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S33_L15.png",
           "layer": 15
         }
       ]
@@ -5832,7 +5832,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S36_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S36_L15.png",
           "layer": 15
         }
       ]
@@ -5852,7 +5852,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S36_L05.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S36_L05.png",
           "layer": 5
         }
       ]
@@ -5871,7 +5871,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S37_L05.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S37_L05.png",
           "layer": 5
         }
       ]
@@ -5890,7 +5890,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S38_L05.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S38_L05.png",
           "layer": 5
         }
       ]
@@ -5909,7 +5909,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S39_L05.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S39_L05.png",
           "layer": 5
         }
       ]
@@ -5928,7 +5928,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S41_L05.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S41_L05.png",
           "layer": 5
         }
       ]
@@ -5947,7 +5947,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S48_L05.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S48_L05.png",
           "layer": 5
         }
       ]
@@ -5966,7 +5966,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S49_L05.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S49_L05.png",
           "layer": 5
         }
       ]
@@ -5985,15 +5985,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S86_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S86_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S86_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S86_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S86_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S86_L11.png",
           "layer": 11
         }
       ]
@@ -6012,15 +6012,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S87_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S87_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S87_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S87_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S87_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S87_L11.png",
           "layer": 11
         }
       ]
@@ -6039,15 +6039,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S88_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S88_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S88_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S88_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S88_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S88_L11.png",
           "layer": 11
         }
       ]
@@ -6066,15 +6066,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S89_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S89_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S89_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S89_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S89_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S89_L11.png",
           "layer": 11
         }
       ]
@@ -6093,15 +6093,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S90_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S90_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S90_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S90_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S90_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S90_L11.png",
           "layer": 11
         }
       ]
@@ -6120,15 +6120,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S91_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S91_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S91_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S91_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S91_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S91_L11.png",
           "layer": 11
         }
       ]
@@ -6147,15 +6147,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S93_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S93_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S93_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S93_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S93_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S93_L11.png",
           "layer": 11
         }
       ]
@@ -6174,7 +6174,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S200_L16.webp",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S200_L16.webp",
           "layer": 16
         }
       ]
@@ -6193,7 +6193,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S52_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S52_L13.png",
           "layer": 13
         }
       ]
@@ -6212,7 +6212,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S53_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S53_L13.png",
           "layer": 13
         }
       ]
@@ -6231,7 +6231,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S54_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S54_L13.png",
           "layer": 13
         }
       ]
@@ -6250,7 +6250,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S55_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S55_L13.png",
           "layer": 13
         }
       ]
@@ -6269,7 +6269,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S200_L02.webp",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S200_L02.webp",
           "layer": 2
         }
       ]
@@ -6288,7 +6288,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S201_L02.webp",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S201_L02.webp",
           "layer": 2
         }
       ]
@@ -6307,7 +6307,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S202_L02.webp",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S202_L02.webp",
           "layer": 2
         }
       ]
@@ -6326,7 +6326,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S200_L05.webp",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S200_L05.webp",
           "layer": 5
         }
       ]
@@ -6345,7 +6345,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S201_L05.webp",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S201_L05.webp",
           "layer": 5
         }
       ]
@@ -6364,7 +6364,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S202_L05.webp",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S202_L05.webp",
           "layer": 5
         }
       ]
@@ -6383,7 +6383,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S24_L09.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S24_L09.png",
           "layer": 9
         }
       ]
@@ -6402,7 +6402,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S27_L09.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S27_L09.png",
           "layer": 9
         }
       ]
@@ -6421,7 +6421,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S29_L09.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S29_L09.png",
           "layer": 9
         }
       ]
@@ -6440,7 +6440,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S30_L09.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S30_L09.png",
           "layer": 9
         }
       ]
@@ -6459,7 +6459,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S32_L09.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S32_L09.png",
           "layer": 9
         }
       ]
@@ -6478,7 +6478,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S37_L09.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S37_L09.png",
           "layer": 9
         }
       ]
@@ -6497,7 +6497,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S38_L09.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S38_L09.png",
           "layer": 9
         }
       ]
@@ -6516,7 +6516,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S41_L09.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S41_L09.png",
           "layer": 9
         }
       ]
@@ -6535,7 +6535,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S200_L15.webp",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S200_L15.webp",
           "layer": 15
         }
       ]
@@ -6555,7 +6555,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S201_L15.webp",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S201_L15.webp",
           "layer": 15
         }
       ]
@@ -6575,7 +6575,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S30_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S30_L13.png",
           "layer": 13
         }
       ]
@@ -6594,7 +6594,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S32_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S32_L13.png",
           "layer": 13
         }
       ]
@@ -6613,7 +6613,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S202_L15.webp",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S202_L15.webp",
           "layer": 15
         }
       ]
@@ -6633,7 +6633,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S42_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S42_L13.png",
           "layer": 13
         }
       ]
@@ -6652,7 +6652,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S43_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S43_L13.png",
           "layer": 13
         }
       ]
@@ -6671,7 +6671,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S44_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S44_L13.png",
           "layer": 13
         }
       ]
@@ -6690,7 +6690,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S45_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S45_L13.png",
           "layer": 13
         }
       ]
@@ -6709,7 +6709,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S51_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S51_L13.png",
           "layer": 13
         }
       ]
@@ -6728,7 +6728,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S56_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S56_L13.png",
           "layer": 13
         }
       ]
@@ -6747,7 +6747,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S59_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S59_L13.png",
           "layer": 13
         }
       ]
@@ -6766,7 +6766,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S60_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S60_L13.png",
           "layer": 13
         }
       ]
@@ -6785,7 +6785,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S66_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S66_L13.png",
           "layer": 13
         }
       ]
@@ -6804,7 +6804,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S67_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S67_L13.png",
           "layer": 13
         }
       ]
@@ -6823,7 +6823,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S68_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S68_L13.png",
           "layer": 13
         }
       ]
@@ -6842,7 +6842,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S69_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S69_L13.png",
           "layer": 13
         }
       ]
@@ -6861,7 +6861,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S70_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S70_L13.png",
           "layer": 13
         }
       ]
@@ -6880,7 +6880,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S71_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S71_L13.png",
           "layer": 13
         }
       ]
@@ -6899,7 +6899,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S72_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S72_L13.png",
           "layer": 13
         }
       ]
@@ -6918,7 +6918,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S74_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S74_L13.png",
           "layer": 13
         }
       ]
@@ -6937,7 +6937,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S75_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S75_L13.png",
           "layer": 13
         }
       ]
@@ -6956,7 +6956,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S82_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S82_L13.png",
           "layer": 13
         }
       ]
@@ -6975,7 +6975,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S83_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S83_L13.png",
           "layer": 13
         }
       ]
@@ -6994,7 +6994,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S84_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S84_L13.png",
           "layer": 13
         }
       ]
@@ -7013,7 +7013,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S85_L13.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S85_L13.png",
           "layer": 13
         }
       ]
@@ -7032,7 +7032,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S02_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S02_L14.png",
           "layer": 14
         }
       ]
@@ -7051,7 +7051,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S06_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S06_L14.png",
           "layer": 14
         }
       ]
@@ -7070,7 +7070,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S07_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S07_L14.png",
           "layer": 14
         }
       ]
@@ -7089,7 +7089,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S08_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S08_L14.png",
           "layer": 14
         }
       ]
@@ -7108,7 +7108,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S200_L09.webp",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S200_L09.webp",
           "layer": 9
         }
       ]
@@ -7127,7 +7127,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S201_L09.webp",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S201_L09.webp",
           "layer": 9
         }
       ]
@@ -7146,7 +7146,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S202_L09.webp",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S202_L09.webp",
           "layer": 9
         }
       ]
@@ -7165,7 +7165,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S09_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S09_L14.png",
           "layer": 14
         }
       ]
@@ -7184,7 +7184,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S10_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S10_L14.png",
           "layer": 14
         }
       ]
@@ -7203,7 +7203,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S01_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S01_L14.png",
           "layer": 14
         }
       ]
@@ -7222,7 +7222,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S04_L14.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S04_L14.png",
           "layer": 14
         }
       ]
@@ -7241,7 +7241,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S91_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S91_L15.png",
           "layer": 15
         }
       ]
@@ -7261,7 +7261,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S92_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S92_L15.png",
           "layer": 15
         }
       ]
@@ -7281,7 +7281,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S93_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S93_L15.png",
           "layer": 15
         }
       ]
@@ -7301,7 +7301,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S95_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S95_L15.png",
           "layer": 15
         }
       ]
@@ -7321,7 +7321,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S96_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S96_L15.png",
           "layer": 15
         }
       ]
@@ -7341,7 +7341,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S98_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S98_L15.png",
           "layer": 15
         }
       ]
@@ -7361,7 +7361,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S99_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S99_L15.png",
           "layer": 15
         }
       ]
@@ -7381,7 +7381,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S103_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S103_L15.png",
           "layer": 15
         }
       ]
@@ -7401,7 +7401,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S107_L15.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S107_L15.png",
           "layer": 15
         }
       ]
@@ -7421,15 +7421,15 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S102_L04.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S102_L04.png",
           "layer": 4
         },
         {
-          "url": "/api/trait/image/150/S102_L07.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S102_L07.png",
           "layer": 7
         },
         {
-          "url": "/api/trait/image/150/S102_L11.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S102_L11.png",
           "layer": 11
         }
       ]
@@ -7448,7 +7448,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S07_L09.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S07_L09.png",
           "layer": 9
         }
       ]
@@ -7467,7 +7467,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S09_L09.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S09_L09.png",
           "layer": 9
         }
       ]
@@ -7486,7 +7486,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S01_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S01_L16.png",
           "layer": 16
         }
       ]
@@ -7505,7 +7505,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S02_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S02_L16.png",
           "layer": 16
         }
       ]
@@ -7524,7 +7524,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S06_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S06_L16.png",
           "layer": 16
         }
       ]
@@ -7543,7 +7543,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S07_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S07_L16.png",
           "layer": 16
         }
       ]
@@ -7562,7 +7562,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S08_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S08_L16.png",
           "layer": 16
         }
       ]
@@ -7581,7 +7581,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S11_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S11_L16.png",
           "layer": 16
         }
       ]
@@ -7600,7 +7600,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S12_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S12_L16.png",
           "layer": 16
         }
       ]
@@ -7619,7 +7619,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S13_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S13_L16.png",
           "layer": 16
         }
       ]
@@ -7638,7 +7638,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S14_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S14_L16.png",
           "layer": 16
         }
       ]
@@ -7657,7 +7657,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S24_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S24_L16.png",
           "layer": 16
         }
       ]
@@ -7676,7 +7676,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S11_L09.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S11_L09.png",
           "layer": 9
         }
       ]
@@ -7695,7 +7695,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S14_L09.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S14_L09.png",
           "layer": 9
         }
       ]
@@ -7714,7 +7714,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S17_L09.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S17_L09.png",
           "layer": 9
         }
       ]
@@ -7733,7 +7733,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S18_L09.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S18_L09.png",
           "layer": 9
         }
       ]
@@ -7752,7 +7752,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S20_L09.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S20_L09.png",
           "layer": 9
         }
       ]
@@ -7771,7 +7771,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S21_L09.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S21_L09.png",
           "layer": 9
         }
       ]
@@ -7790,7 +7790,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S22_L09.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S22_L09.png",
           "layer": 9
         }
       ]
@@ -7809,7 +7809,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S23_L09.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S23_L09.png",
           "layer": 9
         }
       ]
@@ -7828,7 +7828,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S98_L16.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S98_L16.png",
           "layer": 16
         }
       ]
@@ -7847,7 +7847,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S85_L08.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S85_L08.png",
           "layer": 8
         }
       ]
@@ -7866,7 +7866,7 @@
     "images": {
       "x150": [
         {
-          "url": "/api/trait/image/150/S86_L08.png",
+          "url": "https://market-api.sharkrace.com/api/trait/image/150/S86_L08.png",
           "layer": 8
         }
       ]
