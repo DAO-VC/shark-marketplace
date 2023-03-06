@@ -34,7 +34,7 @@
           v-for="(img, key) in images"
           :key="key"
           data-not-lazy
-          :src="img.url"
+          :src="'https://market-api.sharkrace.com' + img.url"
           alt=""
           :title="selected ? 'Remove item' : ''"
         >
