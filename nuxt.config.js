@@ -178,16 +178,16 @@ export default {
     ]
   ],
 
-  proxy: process.env.PROXY
-    ? {
-      "/socket.io": {
-        target: process.env.PROXY
-      },
-      "/api": {
-        target: process.env.PROXY
-      }
-    }
-    : {},
+  // proxy: process.env.PROXY
+  //   ? {
+  //     "/socket.io": {
+  //       target: process.env.PROXY
+  //     },
+  //     "/api": {
+  //       target: process.env.PROXY
+  //     }
+  //   }
+  //   : {},
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
