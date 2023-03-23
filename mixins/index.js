@@ -33,7 +33,7 @@ export default {
     Vue.prototype.$TimeText = this.TimeText;
     Vue.prototype.$declOfNum = this.declOfNum;
     Vue.prototype.$isDev = this.isDev;
-    Vue.prototype.$isTestnet = process.env.NODE_ENV === "development";
+    Vue.prototype.$isTestnet = false ; //process.env.NODE_ENV === "development";
     Vue.prototype.$CONTRACT = this.Contract;
     Vue.prototype.$WCPROVIDER = this.wcProvider;
     Vue.prototype.$offline = false;
