@@ -59,7 +59,7 @@
 
         <div class="site-header-item site-header-right">
           <price-balance
-            v-if="isLogged"
+            v-if="false && isLogged"
             :busd="balanceBUSD"
             :shrk="balanceSHRK"
             class="desktop"

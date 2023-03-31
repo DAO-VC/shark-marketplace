@@ -84,7 +84,7 @@
 
               <!-- Корзина TODO: вернуть обратно && isLogged && !userHasNoSharks -->
               <div v-if="activeShark && isLogged && Object.keys(cartTraits).length && !userHasNoSharks" class="basket">
-                <div class="basket-total">
+                <div v-if = "false" class="basket-total">
                   <div class="basket-total__left">
                     <div v-if="activeSharkRarity" class="basket-total__item">
                       <i>Rarity:</i>
@@ -179,6 +179,7 @@
                     {{ categoryName }}
                   </h2>
                   <price-balance
+                    v-if = "false"
                     :shrk="priceSHRK"
                     :busd="priceBUSD"
                     class="tabs-header__price"
@@ -469,7 +470,7 @@ export default {
   mounted () {
     // this.loadData();
     this.resetSharks()
-    this.interval = window.setInterval(this.calcCurrentSHRKPrice,1000)
+    // this.interval = window.setInterval(this.calcCurrentSHRKPrice,1000)
 
   },
   methods: {
