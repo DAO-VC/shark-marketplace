@@ -115,7 +115,7 @@ export default {
     this.onUpdate();
     window.addEventListener("resize", this.onUpdate);
     window.addEventListener("scroll", this.onUpdate);
-    this.$axios.$get("/starter-pack.json").then(this.onJSONLoad);
+    this.$axios.$get("https://market.sharkrace.com/starter-pack.json").then(this.onJSONLoad);
   },
   methods: {
     onInput () {
