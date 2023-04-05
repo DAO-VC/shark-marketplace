@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://market-api.sharkrace.com/api/:path*"
+    },
+    {
+      "source": "/api/:path*/",
+      "destination": "https://market-api.sharkrace.com/api/:path*/"
+    }
+  ]
+}

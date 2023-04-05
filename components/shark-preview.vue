@@ -47,7 +47,7 @@ export default {
         ? "mp4"
         : "jpg";
         // todo: remove hardcode api
-      return `https://market-api.sharkrace.com/api/nft/shark/image/${fileName}.${extension}`;
+      return `/api/nft/shark/image/${fileName}.${extension}`;
     }
   },
   methods: {

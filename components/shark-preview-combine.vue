@@ -84,7 +84,7 @@ export default {
         : {
             layer: y,
             key: y + "_" + ids[i],
-            url: "https://market-api.sharkrace.com/api/trait/image/150/" + ([3, 6, 10].includes(y) ? "B" : "S") +
+            url: "/api/trait/image/150/" + ([3, 6, 10].includes(y) ? "B" : "S") +
               this.formatFolder(ids[i]) + "_L" + this.formatFolder(y) + ".png"
           }))
         .reduce((a, b) => [...a, ...b], [])
