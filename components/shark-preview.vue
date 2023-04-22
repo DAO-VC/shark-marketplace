@@ -5,7 +5,7 @@
         <source :src="Url" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <img v-else src="" :data-src="Url" :alt="`SHARK #${item.id}`" @error="error">
+      <img v-else src="" :data-src="Url" :alt="`SHARK #${item.id}`">
     </div>
     <!-- <div class="shark-preview">
       <p class="shark-preview__txt">
